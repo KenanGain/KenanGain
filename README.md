@@ -2,7 +2,7 @@
 
 ![KenanGain.jpeg](https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01.jpeg)
 
-## Abougt Me
+## About Me
 <!--
 **KenanGain/KenanGain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
