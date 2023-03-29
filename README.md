@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kenan Gain.
 
-!["KenanGain/Screenshot_20230128-144804490-01.jpeg"](MyProfilePic.jpeg)
+![KenanGain](KenanGain/Screenshot_20230128-144804490-01.jpeg)
 
 
 <!--
