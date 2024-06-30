@@ -48,29 +48,30 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <details>
-          <summary><a href="https://www.youtube.com/c/knightgamer87"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a></summary>
+        <a href="https://www.youtube.com/c/knightgamer87"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+        <div>
           <img src="https://img.shields.io/badge/YouTube-1.43K%20subscribers-ff0000?style=flat-square&logo=youtube" alt="YouTube Subscribers">
           <img src="https://img.shields.io/badge/YouTube-1,274%20videos-ff0000?style=flat-square&logo=youtube" alt="YouTube Videos">
           <img src="https://img.shields.io/badge/YouTube-3,31,838%20views-ff0000?style=flat-square&logo=youtube" alt="YouTube Views">
-        </details>
+        </div>
       </td>
       <td align="center" style="border: none;">
-        <details>
-          <summary><a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a></summary>
+        <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+        <div>
           <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
           <img src="https://img.shields.io/badge/Instagram-228%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </details>
+        </div>
       </td>
       <td align="center" style="border: none;">
-        <details>
-          <summary><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/></summary>
+        <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
+        <div>
           <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-        </details>
+        </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🛠️ Tech Stack
