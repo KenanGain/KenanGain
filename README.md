@@ -69,7 +69,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ## Spotify
 
-[Open Spotify Playlist](https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?utm_source=generator)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 
 ## 🛠️ Tech Stack
