@@ -233,24 +233,46 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### AI/ML & Data Science
 
-<table>
-  <tr>
-    <th>Languages & Libraries</th>
-    <th>Frameworks & Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" alt="Python"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40" alt="NumPy"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" width="40" height="40" alt="Pandas"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" height="40" alt="TensorFlow"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/.github/logo.svg" width="40" height="40" alt="LangChain"/>
-      <img src="https://ollama.ai/public/ollama.png" width="40" height="40" alt="Ollama"/>
-      <span style="color: blue; font-size: 12px;">LlamaIndex</span>
-    </td>
-  </tr>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Languages & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="50" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/><br>TensorFlow
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="50" height="50"/><br>LangChain
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="50"/><br>Ollama
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### AI Tools & Prompt Engineering
