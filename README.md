@@ -32,13 +32,36 @@
 I'm a versatile Computer Engineer and Full-Stack Developer with a passion for innovative solutions. My expertise spans Cloud Computing, AI/ML, and high-quality streaming. I thrive on pushing technological boundaries and leveraging AI to enhance productivity and creativity.
 
 <details>
-<summary>📊 GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=radical" alt="Kenan's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
-</p>
+  <summary>📊 GitHub Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=radical" alt="Kenan's GitHub stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
+  </p>
 </details>
 
+<details>
+  <summary>📊 YouTube Stats</summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/YouTube-1.43K%20subscribers-ff0000?style=for-the-badge&logo=youtube" alt="YouTube Subscribers">
+    <img src="https://img.shields.io/badge/YouTube-1,274%20videos-ff0000?style=for-the-badge&logo=youtube" alt="YouTube Videos">
+    <img src="https://img.shields.io/badge/YouTube-3,31,838%20views-ff0000?style=for-the-badge&logo=youtube" alt="YouTube Views">
+  </p>
+</details>
+
+<details>
+  <summary>📊 Instagram Stats</summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=for-the-badge&logo=instagram" alt="Instagram Posts">
+    <img src="https://img.shields.io/badge/Instagram-228%20followers-e4405f?style=for-the-badge&logo=instagram" alt="Instagram Followers">
+  </p>
+</details>
+
+<details>
+  <summary>📊 Discord Stats</summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Discord-100%2B%20members-7289da?style=for-the-badge&logo=discord" alt="Discord Members">
+  </p>
+</details>
 
 ## 🛠️ Tech Stack
 
