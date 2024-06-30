@@ -67,8 +67,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <details>
   <summary>📊 Discord Stats</summary>
   <p align="center">
-    <img src="https://img.shields.io/badge/Discord-100%2B%20members-7289da?style=for-the-badge&logo=discord" alt="Discord Members">
-    <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=shield" alt="Discord Shield"/>
+    <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
 
   </p>
 </details>
