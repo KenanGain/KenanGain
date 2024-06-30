@@ -68,7 +68,10 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </details>
 
 ## Spotify
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ilkWwO6fhn43pkqKXn1Px?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?utm_source=generator)
+
+<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ilkWwO6fhn43pkqKXn1Px?utm_source=generator" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
 
 ## 🛠️ Tech Stack
 
