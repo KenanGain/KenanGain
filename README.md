@@ -30,38 +30,6 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </p>
 </details>
 
-<div align="center">
-  <img src="https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01.jpeg" alt="Kenan Gain" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 4px solid #4CAF50;">
-</div>
-
-<h1 align="center">👋 Hello, I'm Kenan Gain</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.kenangain.com/"><img src="https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome" alt="Website"></a>
-  <a href="https://www.youtube.com/@KnightGamer87"><img src="https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://www.linkedin.com/in/kenan-gain-33048518a/"><img src="https://img.shields.io/badge/LinkedIn-Kenan%20Gain-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-</p>
-
-## 🚀 About Me
-
-I'm a versatile Computer Engineer and Full-Stack Developer with a passion for innovative solutions. My expertise spans Cloud Computing, AI/ML, and high-quality streaming. I thrive on pushing technological boundaries and leveraging AI to enhance productivity and creativity.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=radical" alt="Kenan's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
-</p>
-</details>
-
 ## 🛠️ Tech Stack
 
 <table align="center">
