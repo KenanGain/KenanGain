@@ -12,7 +12,9 @@
   <a href="https://www.kenangain.com/"><img src="https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome" alt="Website"></a>
   <a href="https://www.youtube.com/@KnightGamer87"><img src="https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="https://www.linkedin.com/in/kenan-gain-33048518a/"><img src="https://img.shields.io/badge/LinkedIn-Kenan%20Gain-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://discord.gg/YdDyV6QqEN"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord" alt="Discord"></a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
