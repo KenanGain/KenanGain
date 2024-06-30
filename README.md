@@ -86,33 +86,35 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### Web Development
 
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40" alt="React"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40" height="40" alt="jQuery"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS"/>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40" alt="Flask"/>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40" alt="MongoDB"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" height="40" alt="MySQL"/>
-      <img src="https://dist.neo4j.com/wp-content/uploads/20210423072157/neo4j-logo-2020-1.svg" width="40" height="40" alt="Neo4j"/>
-    </td>
-  </tr>
-</table>
+#### Frontend
+
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="Next.js"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+</div>
+
+#### Backend
+
+ <div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" alt="Django"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
+ </div>
+
+#### Database 
+ 
+ <div align="left">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="icon" width="50" height="50" />
+ </div>
+
 
 ### Cloud Computing & DevOps
 
