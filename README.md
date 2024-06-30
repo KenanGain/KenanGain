@@ -33,6 +33,8 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 <img src="https://streak-stats.demolab.com?user=KenanGain&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
 
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vision-friendly-dark" />
+
 <details>
   <summary>📊 GitHub Stats</summary>
   <p align="center">
