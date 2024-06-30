@@ -86,34 +86,86 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### Web Development
 
-#### Frontend
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="Next.js"/><br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/><br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="Next.js"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-</div>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" alt="Django"/><br>Django
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-#### Backend
-
- <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" alt="Django"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
- </div>
-
-#### Database 
- 
- <div align="left">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="icon" />
- </div>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Cloud Computing & DevOps
