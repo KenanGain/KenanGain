@@ -3,7 +3,7 @@
   
   # Kenan Gain
   
-  #### Computer Engineer | Full-Stack Developer | AI Enthusiast
+  #### 🚀 Computer Engineer | 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎥 Streamer
 
   [![Website](https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://www.kenangain.com/)
   [![YouTube](https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KnightGamer87)
@@ -16,32 +16,129 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Web Development
 
-| Web Development | Cloud & DevOps | AI/ML | Streaming |
-|-----------------|----------------|-------|-----------|
-| <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/obs-studio.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/twitch-5.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" width="40" height="40"/> |
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40" alt="React"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40" height="40" alt="jQuery"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40" alt="Flask"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" height="40" alt="MySQL"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40" alt="MongoDB"/>
+      <img src="https://dist.neo4j.com/wp-content/uploads/20210423072157/neo4j-logo-2020-1.svg" width="40" height="40" alt="Neo4j"/>
+    </td>
+  </tr>
+</table>
 
-</div>
+### Cloud Computing & DevOps
 
-## 🧠 AI Expertise
+<table>
+  <tr>
+    <th>Containerization & Orchestration</th>
+    <th>Cloud Providers</th>
+    <th>Infrastructure as Code</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40" alt="Docker"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40" height="40" alt="Kubernetes"/>
+      <img src="https://helm.sh/img/helm.svg" width="40" height="40" alt="Helm"/>
+      <img src="https://skaffold.dev/images/skaffold-logo-white.png" width="40" height="40" alt="Skaffold"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40" alt="AWS"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40" alt="Azure"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40" alt="GCP"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="40" height="40" alt="Terraform"/>
+    </td>
+  </tr>
+</table>
 
-I specialize in prompt engineering for various AI models:
+### AI/ML
 
-<div align="center">
+<table>
+  <tr>
+    <th>Languages & Libraries</th>
+    <th>Frameworks</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" alt="Python"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40" alt="NumPy"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" width="40" height="40" alt="Pandas"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" height="40" alt="TensorFlow"/>
+    </td>
+  </tr>
+</table>
 
-| <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="30" height="30"/> ChatGPT | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" height="30"/> Claude | <img src="https://cdn.worldvectorlogo.com/logos/google-2015.svg" width="30" height="30"/> Gemini | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Llama_logo.svg" width="30" height="30"/> LLaMA |
-|------|--------|--------|-------|
-| <img src="https://avatars.githubusercontent.com/u/3185130?s=200&v=4" width="30" height="30"/> Cohere | <img src="https://avatars.githubusercontent.com/u/56761005?s=200&v=4" width="30" height="30"/> GitHub Copilot | <img src="https://avatars.githubusercontent.com/u/99472900?s=200&v=4" width="30" height="30"/> Mistral | |
+### Streaming & Video Editing
 
-</div>
+<table>
+  <tr>
+    <th>Streaming Tools</th>
+    <th>Features</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/obs-studio.svg" width="40" height="40" alt="OBS"/>
+    </td>
+    <td>
+      4K60 HDR Streaming<br>
+      1440p60 Streaming<br>
+      Instant Replay<br>
+      Chat Bots<br>
+      Spotify Widget<br>
+      Live View Count<br>
+      Multi-streaming Setup
+    </td>
+  </tr>
+</table>
+
+### Prompt Engineering & AI Models
+
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT</td>
+    <td align="center"><img src="https://www.gstatic.com/lamda/images/gemini_logo_color_192px.png" width="40" height="40" alt="Google Gemini"/><br>Google Gemini</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/56761005?s=200&v=4" width="40" height="40" alt="GitHub Copilot"/><br>GitHub Copilot</td>
+    <td align="center"><img src="https://www.perplexity.ai/favicon.ico" width="40" height="40" alt="Perplexity"/><br>Perplexity</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.phind.com/favicon.ico" width="40" height="40" alt="Phind"/><br>Phind</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/99472900?s=200&v=4" width="40" height="40" alt="Mistral"/><br>Mistral</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Llama_logo.svg" width="40" height="40" alt="LLaMA"/><br>LLaMA (Meta)</td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><img src="https://cdn.worldvectorlogo.com/logos/anthropic.svg" width="40" height="40" alt="Claude"/><br>Claude</td>
+  </tr>
+</table>
 
 ## 🏆 Featured Projects
 
 1. **AI-Powered Content Creation**: Automated content generation using various LLMs
 2. **MapleLaw AI**: Legal information assistant for Canadian citizens
 3. **Sara AI for Canadian Tire**: AI-enhanced shopping experience
-4. **4K60 Streaming Setup**: High-performance streaming with instant replay
+4. **4K60 HDR Streaming Setup**: High-performance streaming with instant replay
 5. **Cloud-Native Web Apps**: Next.js, React, Django with Docker & Kubernetes
 
 ## 📊 GitHub Stats
