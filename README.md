@@ -17,10 +17,7 @@
   <a href="https://facebook.com/kenan.gain"><img src="https://img.shields.io/badge/Facebook-Kenan%20Gain-1877f2?style=for-the-badge&logo=facebook" alt="Facebook"></a>
   <a href="https://twitch.tv/knightgamer2910"><img src="https://img.shields.io/badge/Twitch-knightgamer2910-9146ff?style=for-the-badge&logo=twitch" alt="Twitch"></a>
   <a href="https://loco.gg/streamers/IGK07LN6IY"><img src="https://img.shields.io/badge/Loco-IGK07LN6IY-ff5c5c?style=for-the-badge&logo=loco" alt="Loco"></a>
-  <a href="https://trovo.live/Knight_Gamer"><img src="https://img.shields.io/badge/Trovo-Knight_Gamer-00e1ff?style=for-the-badge&logo=trovo" alt="Trovo"></a>
   <a href="https://twitter.com/gain_kenan"><img src="https://img.shields.io/badge/Twitter-gain_kenan-1da1f2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.behance.net/kenangain"><img src="https://img.shields.io/badge/Behance-kenangain-0057ff?style=for-the-badge&logo=behance" alt="Behance"></a>
-  <a href="https://www.pinterest.ca/automatedartistry2910/"><img src="https://img.shields.io/badge/Pinterest-automatedartistry2910-e60023?style=for-the-badge&logo=pinterest" alt="Pinterest"></a>
   <a href="https://www.reddit.com/user/Automated_Artistry"><img src="https://img.shields.io/badge/Reddit-Automated_Artistry-ff4500?style=for-the-badge&logo=reddit" alt="Reddit"></a>
 </p>
 
