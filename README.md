@@ -43,14 +43,6 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 <details>
-  <summary>📊 GitHub Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
-  </p>
-</details>
-
-<details>
   <summary>📊 YouTube Stats</summary>
   <p align="center">
     <img src="https://img.shields.io/badge/YouTube-1.43K%20subscribers-ff0000?style=for-the-badge&logo=youtube" alt="YouTube Subscribers">
