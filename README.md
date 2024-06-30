@@ -145,6 +145,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </td>
   </tr>
 </table>
+
 ## 🏆 Featured Projects
 
 <table align="center">
@@ -210,4 +211,4 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer)
-## 🏆 Featured Projects
+
