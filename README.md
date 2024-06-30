@@ -112,7 +112,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
  
  <div align="left">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="icon" />
  </div>
 
 
