@@ -16,6 +16,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ## 🛠️ Tech Stack
 
+<details>
+<summary>Click to expand</summary>
+
 ### Web Development
 
 <table>
@@ -95,11 +98,17 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <table>
   <tr>
     <th>Streaming Tools</th>
+    <th>Video Editing</th>
     <th>Features</th>
   </tr>
   <tr>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/obs-studio.svg" width="40" height="40" alt="OBS"/>
+    </td>
+    <td>
+      <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" width="40" height="40" alt="Adobe Premiere Pro"/>
+      <img src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" width="40" height="40" alt="Adobe After Effects"/>
+      <img src="https://download.wondershare.com/filmora_64.png" width="40" height="40" alt="Filmora"/>
     </td>
     <td>
       4K60 HDR Streaming<br>
@@ -118,20 +127,11 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT</td>
-    <td align="center"><img src="https://www.gstatic.com/lamda/images/gemini_logo_color_192px.png" width="40" height="40" alt="Google Gemini"/><br>Google Gemini</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/56761005?s=200&v=4" width="40" height="40" alt="GitHub Copilot"/><br>GitHub Copilot</td>
-    <td align="center"><img src="https://www.perplexity.ai/favicon.ico" width="40" height="40" alt="Perplexity"/><br>Perplexity</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.phind.com/favicon.ico" width="40" height="40" alt="Phind"/><br>Phind</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/99472900?s=200&v=4" width="40" height="40" alt="Mistral"/><br>Mistral</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Llama_logo.svg" width="40" height="40" alt="LLaMA"/><br>LLaMA (Meta)</td>
-    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4"><img src="https://cdn.worldvectorlogo.com/logos/anthropic.svg" width="40" height="40" alt="Claude"/><br>Claude</td>
+    <td align="center"><img src="https://seeklogo.com/images/G/google-gemini-logo-A27B17E060-seeklogo.com.png" width="40" height="40" alt="Google Gemini"/><br>Google Gemini</td>
   </tr>
 </table>
+
+</details>
 
 ## 🏆 Featured Projects
 
