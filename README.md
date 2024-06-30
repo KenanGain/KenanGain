@@ -32,98 +32,119 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+### Web Development
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40" alt="Next.js"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40" alt="React"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40" height="40" alt="jQuery"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="48" height="48" alt="Azure" />
-      <br>Azure
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40" alt="Flask"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <!-- Paste your OBS Studio SVG code here -->
-      <br>OBS Studio
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40" alt="MongoDB"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" height="40" alt="MySQL"/>
+      <img src="https://dist.neo4j.com/wp-content/uploads/20210423072157/neo4j-logo-2020-1.svg" width="40" height="40" alt="Neo4j"/>
     </td>
   </tr>
 </table>
 
-## 🧠 AI Expertise
+### Cloud Computing & DevOps
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="ChatGPT" />
-      <br>ChatGPT
-    </td>
-    <td align="center" width="96">
-      <!-- Paste your Claude SVG code here -->
-      <br>Claude
-    </td>
-    <td align="center" width="96">
-      <!-- Paste your Google Gemini SVG code here -->
-      <br>Gemini
-    </td>
-    <td align="center" width="96">
-      <!-- Paste your Meta LLaMA SVG code here -->
-      <br>LLaMA
-    </td>
+    <th>Containerization & Orchestration</th>
+    <th>Cloud Providers</th>
+    <th>Infrastructure as Code</th>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/3185130?s=200&v=4" width="48" height="48" alt="Cohere" />
-      <br>Cohere
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40" alt="Docker"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40" height="40" alt="Kubernetes"/>
+      <img src="https://helm.sh/img/helm.svg" width="40" height="40" alt="Helm"/>
+      <img src="https://skaffold.dev/images/skaffold-logo-white.png" width="40" height="40" alt="Skaffold"/>
     </td>
-    <td align="center" width="96">
-      <!-- Paste your GitHub Copilot SVG code here -->
-      <br>GitHub Copilot
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40" alt="AWS"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40" alt="GCP"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40" alt="Azure"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/99472900?s=200&v=4" width="48" height="48" alt="Mistral" />
-      <br>Mistral
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="40" height="40" alt="Terraform"/>
     </td>
   </tr>
 </table>
 
+### AI/ML & Data Science
+
+<table>
+  <tr>
+    <th>Languages & Libraries</th>
+    <th>Frameworks & Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" alt="Python"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40" alt="NumPy"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" width="40" height="40" alt="Pandas"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" height="40" alt="TensorFlow"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/.github/logo.svg" width="40" height="40" alt="LangChain"/>
+      <img src="https://ollama.ai/public/ollama.png" width="40" height="40" alt="Ollama"/>
+      <img src="https://llama-index.readthedocs.io/en/latest/_static/img/llama_icon_bg_small.png" width="40" height="40" alt="LlamaIndex"/>
+    </td>
+  </tr>
+</table>
+
+### AI Tools & Prompt Engineering
+
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT</td>
+    <td align="center"><img src="https://seeklogo.com/images/G/google-gemini-logo-A27B17E060-seeklogo.com.png" width="40" height="40" alt="Google Gemini"/><br>Google Gemini</td>
+    <td align="center"><img src="https://www.anthropic.com/images/logo.svg" width="40" height="40" alt="Claude (Anthropic)"/><br>Claude (Anthropic)</td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/facebookresearch/llama/main/llama.png" width="40" height="40" alt="Meta LLaMA"/><br>Meta LLaMA</td>
+  </tr>
+</table>
+
+### Streaming & Video Editing
+
+<table>
+  <tr>
+    <th>Streaming Platforms</th>
+    <th>Streaming Tools</th>
+    <th>Video Editing</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="40" height="40" alt="Twitch"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" width="40" height="40" alt="YouTube"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/obs-studio.svg" width="40" height="40" alt="OBS Studio"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40" alt="Adobe Photoshop"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width="40" height="40" alt="Adobe Premiere Pro"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="40" height="40" alt="Adobe After Effects"/>
+    </td>
+  </tr>
+</table>
 ## 🏆 Featured Projects
 
 <table align="center">
