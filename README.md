@@ -67,9 +67,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
   </p>
 </details>
 
-## Spotify
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
 ## 🛠️ Tech Stack
 
@@ -237,6 +235,10 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </td>
   </tr>
 </table>
+
+## Spotify
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
 ## 📫 Let's Connect!
 
