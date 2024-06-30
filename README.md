@@ -37,12 +37,15 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vision-friendly-dark" />
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
+
 </div>
 
 <details>
   <summary>📊 GitHub Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
   </p>
 </details>
