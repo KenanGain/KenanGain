@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I'm Kenan Gain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;Youtuber;Streamer;Editor;" alt="Typing SVG" />
 </p>
 
 <p align="center">
