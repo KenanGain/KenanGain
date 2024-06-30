@@ -170,29 +170,66 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### Cloud Computing & DevOps
 
-<table>
-  <tr>
-    <th>Containerization & Orchestration</th>
-    <th>Cloud Providers</th>
-    <th>Infrastructure as Code</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40" alt="Docker"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40" height="40" alt="Kubernetes"/>
-      <img src="https://helm.sh/img/helm.svg" width="40" height="40" alt="Helm"/>
-      <img src="https://skaffold.dev/images/skaffold-logo-white.png" width="40" height="40" alt="Skaffold"/>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40" alt="AWS"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40" alt="GCP"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40" alt="Azure"/>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="40" height="40" alt="Terraform"/>
-    </td>
-  </tr>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th align="center" style="color: white;">Infrastructure as Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="50" height="50"/><br>Terraform
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### AI/ML & Data Science
 
