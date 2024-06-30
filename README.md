@@ -42,7 +42,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <details>
   <summary>📊 GitHub Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=radical" alt="Kenan's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanGain&theme=radical" alt="Kenan's GitHub streak">
   </p>
 </details>
