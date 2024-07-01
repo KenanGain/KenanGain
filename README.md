@@ -41,9 +41,14 @@
 As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 <h3 align="center">Git Stats</h3>
+
 <div align="center">
 <div align="center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+ 
+  
+  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
+  
 </div>
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vision-friendly-dark" />
