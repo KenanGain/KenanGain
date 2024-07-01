@@ -118,6 +118,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </a>
 </p>
 
+<h3 align="center">Dev Profile</h3>
+<div align="center">
+<a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/></a>
+</div>
+
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
