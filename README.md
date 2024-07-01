@@ -443,8 +443,11 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 Check out my carefully curated Spotify playlist featuring all awesome copyright-free songs. Perfect for coding sessions, creative work, or just relaxing.
 <p align="center">
-[![My Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb)
+  <a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb">
+    <img src="https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify Playlist">
+  </a>
 </p>
+
 Enjoy the tunes!
 
 ### Top Artists of Playlist
