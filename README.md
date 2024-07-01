@@ -66,15 +66,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://www.youtube.com/c/knightgamer87"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
-        <div>
-          <img src="https://img.shields.io/badge/YouTube-1.43K%20subscribers-ff0000?style=flat-square&logo=youtube" alt="YouTube Subscribers">
-          <img src="https://img.shields.io/badge/YouTube-1,274%20videos-ff0000?style=flat-square&logo=youtube" alt="YouTube Videos">
-          <img src="https://img.shields.io/badge/YouTube-3,31,838%20views-ff0000?style=flat-square&logo=youtube" alt="YouTube Views">
-        </div>
-      </td>
-      <td align="center" style="border: none;">
+  <td align="center" style="border: none;">
         <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
           <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
