@@ -55,7 +55,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Kenan's GitHub stats">
 
-#### Top Repositories
+### Top Repositories
 <div align="center">
   <table>
     <tr>
