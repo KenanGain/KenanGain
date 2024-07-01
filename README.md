@@ -106,8 +106,8 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 ## 🛠️ Tech Stack
 
 
-  
-### Web Development
+ 
+<h4 align="center"> Web Development </h4>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -196,8 +196,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </table>
 </div>
 
-### Cloud Computing & DevOps
+<h4 align="center"> Cloud Computing & DevOps </h4>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -221,7 +222,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -242,7 +245,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -257,10 +262,11 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<h4 align="center">AI/ML & Data Science</h4>
 
-### AI/ML & Data Science
-
+<div align="center>
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -284,7 +290,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -302,9 +310,12 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
-### AI Tools & Prompt Engineering
 
+<h4 align="center"> AI Tools & Prompt Engineering</h4>
+
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -331,10 +342,11 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<h4 align="center">Streaming & Video Editing</h4>
 
-### Streaming & Video Editing
-
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -352,7 +364,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -367,7 +381,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
+</div>
 
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -388,7 +404,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
     </tr>
   </tbody>
 </table>
-
+</div>
 
 
 ## 🏆 Featured Projects
