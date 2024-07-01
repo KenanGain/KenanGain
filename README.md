@@ -462,10 +462,3 @@ Enjoy the tunes!
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer)
-
-
-<p align="center">
-  <a href="https://tracker.gg/overlays/overlay/ad20dca1-4e27-4810-ab2d-977a8c11f30b" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=View+OBS+Overlay" alt="View OBS Overlay" style="border: 2px solid #8A2BE2; border-radius: 10px; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  </a>
-</p>
