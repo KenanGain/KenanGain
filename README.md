@@ -105,8 +105,11 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ## 🛠️ Tech Stack
 
+<div align="center>
+  
 ### Web Development
 
+  
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -382,6 +385,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
   </tbody>
 </table>
 
+</div>
 
 ## 🏆 Featured Projects
 
