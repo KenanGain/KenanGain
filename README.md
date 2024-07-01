@@ -136,7 +136,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/><br>Flask
@@ -184,7 +184,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
       </td>
       <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
