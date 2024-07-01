@@ -277,15 +277,33 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### AI Tools & Prompt Engineering
 
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT</td>
-    <td align="center"><span style="color: blue; font-size: 12px;">Google Gemini</span><br>Google Gemini</td>
-    <td align="center"><span style="color: blue; font-size: 12px;">Claude</span><br>Claude (Anthropic)</td>
-    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face</td>
-    <td align="center"><span style="color: blue; font-size: 12px;">LLaMA</span><br>Meta LLaMA</td>
-  </tr>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/><br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="50" height="50" alt="Meta Llama"/><br>Meta Llama
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 ### Streaming & Video Editing
 
