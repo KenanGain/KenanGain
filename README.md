@@ -120,22 +120,31 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <table>
   <tr>
+    <!-- Dev Profile Header -->
+    <th align="center">
+      Dev Profile
+    </th>
+    <!-- roadmap.sh Profile Header -->
+    <th align="center">
+      roadmap.sh Profile
+    </th>
+  </tr>
+  <tr>
     <!-- Dev Profile -->
     <td align="center">
-      <h3>Dev Profile</h3>
       <a href="https://app.daily.dev/kenangain">
         <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <h3>roadmap.sh Profile</h3>
       <a href="https://roadmap.sh">
         <img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark&roadmaps=ai-data-scientist%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">Stack overflow</h3>
 <div align="center">
