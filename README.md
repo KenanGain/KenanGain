@@ -98,7 +98,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_recent_game_bg=true&show_in_game_bg=true"/>
+  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
 </p>
 
 </div>
