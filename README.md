@@ -94,6 +94,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
   </table>
 </div>
 
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&theme=vision-friendly-dark)](https://www.youtube.com/@KnightGamer87)
 
 
 ## 🛠️ Tech Stack
