@@ -441,6 +441,10 @@ Check out my carefully curated Spotify playlist featuring all awesome copyright-
 
 Enjoy the tunes!
 
+### Top Artists of Playlist
+
+<div align="center">
+<div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
 
 <table>
   <tr>
@@ -453,6 +457,7 @@ Enjoy the tunes!
   </tr>
 </table>
 
+</div>
 
 ## 📫 Let's Connect!
 
