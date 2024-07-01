@@ -49,16 +49,17 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 #### Top Repositories
 <div align="center">
-<a href="https://github.com/KenanGain/weather-app-3d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/KenanGain/moviedjangoai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-</a>
-  <br>
-<a href="https://github.com/KenanGain/speech-to-text.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-</a>
+   <a href="https://github.com/KenanGain/weather-app-3d">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
+    </a>
+    <br>
+    <a href="https://github.com/KenanGain/moviedjangoai">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+    </a>
+    <br>
+    <a href="https://github.com/KenanGain/speech-to-text.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+    </a>
 </div>
 </div>
 
