@@ -105,7 +105,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Steam Profile</h3>
 <p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198828144879/">
   <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
+  </a>
 </p>
 
 </div>
