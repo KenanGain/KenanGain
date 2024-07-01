@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01.jpeg" alt="Kenan Gain" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+  <a href="https://github.com/KenanGain">
+    <img src="https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01.jpeg" alt="Kenan Gain" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+  </a>
 </div>
-
-<style>
-  div img:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 30px #4CAF50;
-  }
-</style>
 
 <h1 align="center">👋 Hello, I'm Kenan Gain</h1>
 
