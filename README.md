@@ -52,6 +52,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 #### Top Repositories
 <div align="center">
+  <a href="https://github.com/KenanGain/fast-gemini-nano">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+    </a>
    <a href="https://github.com/KenanGain/weather-app-3d">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
     </a>
