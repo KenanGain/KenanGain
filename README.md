@@ -34,7 +34,7 @@
 </p>
 
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm a versatile Computer Engineer and Full-Stack Developer with a passion for innovative solutions. My expertise spans Cloud Computing, AI/ML, and high-quality streaming. I thrive on pushing technological boundaries and leveraging AI to enhance productivity and creativity.
 
@@ -61,7 +61,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 </div>
 
-## Socials Stats
+<h2 align="center">Socials Stats</h2>
 
 <div align="center">
 <div align="center">
@@ -103,10 +103,8 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 </div>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-
- 
 <h3 align="center">Web Development</h3>
 
 <div align="center">
@@ -405,7 +403,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 
-## 🏆 Featured Projects
+<h2 align="center">🏆 Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -457,11 +455,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </table>
 
 
-
-
-
-
-## 🎵 My Spotify Playlist
+<h2 align="center">🎵 My Spotify Playlist</h2>
 
 Check out my carefully curated Spotify playlist featuring all awesome copyright-free songs. Perfect for coding sessions, creative work, or just relaxing.
 <p align="center">
@@ -470,9 +464,9 @@ Check out my carefully curated Spotify playlist featuring all awesome copyright-
   </a>
 </p>
 
-Enjoy the tunes!
+<h5 aling="center">Enjoy the tunes!</h5>
 
-### Top Artists of Playlist
+<h3 align="center"> Top Artists of Playlist </h3>
 
 <div align="center">
 <div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
@@ -490,7 +484,7 @@ Enjoy the tunes!
 
 </div>
 
-## 📫 Let's Connect!
+<h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
   <a href="mailto:kenangain2910@gmail.com"><img src="https://img.shields.io/badge/Email-kenangain2910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
