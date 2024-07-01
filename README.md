@@ -16,16 +16,16 @@
 
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://www.kenangain.com/)
-  [![YouTube](https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KnightGamer87)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenan%20Gain-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenan-gain-33048518a/)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord)](https://discord.gg/7uSszWu)
-  [![Instagram](https://img.shields.io/badge/Instagram-knightgamer87-e4405f?style=for-the-badge&logo=instagram)](https://instagram.com/knightgamer87/?hl=en)
-  [![Facebook](https://img.shields.io/badge/Facebook-Kenan%20Gain-1877f2?style=for-the-badge&logo=facebook)](https://facebook.com/kenan.gain)
-  [![Twitch](https://img.shields.io/badge/Twitch-knightgamer2910-9146ff?style=for-the-badge&logo=twitch)](https://twitch.tv/knightgamer2910)
-  [![Loco](https://img.shields.io/badge/Loco-KnightGamer87-ff5c5c?style=for-the-badge&logo=loco)](https://loco.gg/streamers/IGK07LN6IY)
-  [![Twitter](https://img.shields.io/badge/Twitter-gain_kenan-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/gain_kenan)
-  [![Reddit](https://img.shields.io/badge/Reddit-Automated_Artistry-ff4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Automated_Artistry)
+[![Website](https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome&logoWidth=30&logoColor=white)](https://www.kenangain.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube&logoWidth=30&logoColor=white)](https://www.youtube.com/@KnightGamer87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenan%20Gain-0077b5?style=for-the-badge&logo=linkedin&logoWidth=30&logoColor=white)](https://www.linkedin.com/in/kenan-gain-33048518a/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoWidth=30&logoColor=white)](https://discord.gg/7uSszWu)
+[![Instagram](https://img.shields.io/badge/Instagram-knightgamer87-e4405f?style=for-the-badge&logo=instagram&logoWidth=30&logoColor=white)](https://instagram.com/knightgamer87/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-Kenan%20Gain-1877f2?style=for-the-badge&logo=facebook&logoWidth=30&logoColor=white)](https://facebook.com/kenan.gain)
+[![Twitch](https://img.shields.io/badge/Twitch-knightgamer2910-9146ff?style=for-the-badge&logo=twitch&logoWidth=30&logoColor=white)](https://twitch.tv/knightgamer2910)
+[![Loco](https://img.shields.io/badge/Loco-KnightGamer87-ff5c5c?style=for-the-badge&logo=gamepad&logoWidth=30&logoColor=white)](https://loco.gg/streamers/IGK07LN6IY)
+[![Twitter](https://img.shields.io/badge/Twitter-gain_kenan-1da1f2?style=for-the-badge&logo=twitter&logoWidth=30&logoColor=white)](https://twitter.com/gain_kenan)
+[![Reddit](https://img.shields.io/badge/Reddit-Automated_Artistry-ff4500?style=for-the-badge&logo=reddit&logoWidth=30&logoColor=white)](https://www.reddit.com/user/Automated_Artistry)
 
 </div>
 
