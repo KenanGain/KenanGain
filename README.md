@@ -265,9 +265,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 <h4 align="center">AI/ML & Data Science</h4>
-
-<div align="center>
-  
+<div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -290,7 +288,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
       </td>
     </tr>
   </tbody>
-</table>
+ </table>
 </div>
 
 <div align="center">
@@ -315,9 +313,8 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 
 <h4 align="center"> AI Tools & Prompt Engineering</h4>
-
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="5" align="center" style="color: white;">AI Tools</th>
