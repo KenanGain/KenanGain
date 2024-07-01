@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="border: 2px solid #8A2BE2; border-radius: 10px; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" >
 </p>
 
 
