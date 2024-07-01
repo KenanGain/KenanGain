@@ -138,9 +138,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark&roadmaps=ai-data-scientist%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
-      </a>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
     </td>
   </tr>
 </table>
