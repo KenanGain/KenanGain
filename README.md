@@ -62,6 +62,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 ## Socials Stats
+
 <div align="center">
 <div align="center">
   <table style="border: none;">
@@ -89,8 +90,13 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 
 <p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&animated_avatar=true&show_recent_game_bg=true"/>
 </p>
+
 </div>
 
 ## 🛠️ Tech Stack
