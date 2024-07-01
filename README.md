@@ -431,9 +431,9 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 <p align="center">
   <a href="mailto:kenangain2910@gmail.com"><img src="https://img.shields.io/badge/Email-kenangain2910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+14374364786"><img src="https://img.shields.io/badge/Phone-%2B1%20(437--436--4786)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="tel:+14374364786"><img src="https://img.shields.io/badge/International%20Phone-%2B1%20(437--436--4786)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="International Phone"></a>
+  <a href="tel:+918200280008"><img src="https://img.shields.io/badge/Indian%20Phone-%2B91%20(820--028--0008)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Indian Phone"></a>
 </p>
-
 <div align="center">
   
 ⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
