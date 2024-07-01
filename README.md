@@ -464,7 +464,7 @@ Check out my carefully curated Spotify playlist featuring all awesome copyright-
   </a>
 </p>
 
-<h5 aling="center">Enjoy the tunes!</h5>
+<h5 align="center">Enjoy the tunes!</h5>
 
 <h3 align="center"> Top Artists of Playlist </h3>
 
