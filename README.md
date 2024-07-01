@@ -267,7 +267,8 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 <h4 align="center">AI/ML & Data Science</h4>
 
 <div align="center>
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Languages & Libraries</th>
