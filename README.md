@@ -107,7 +107,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 
  
-<h4 align="center"> Web Development </h4>
+<h3 align="center">Web Development</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -196,7 +196,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </table>
 </div>
 
-<h4 align="center"> Cloud Computing & DevOps </h4>
+<h3 align="center">Cloud Computing & DevOps</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -264,7 +264,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </table>
 </div>
 
-<h4 align="center">AI/ML & Data Science</h4>
+<h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -312,7 +312,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </div>
 
 
-<h4 align="center"> AI Tools & Prompt Engineering</h4>
+<h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -342,7 +342,7 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 </table>
 </div>
 
-<h4 align="center">Streaming & Video Editing</h4>
+<h3 align="center">Streaming & Video Editing</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
