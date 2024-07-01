@@ -77,10 +77,14 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
       <td align="center" style="border: none;">
   <a href="https://discord.gg/YdDyV6QqEN">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
-    <div>
+    <div align="center">
+      <div>
       <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
+      </div>
+      <div>
       <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
     </div>
+      </div>
   </a>
        </td>
     </tr>
