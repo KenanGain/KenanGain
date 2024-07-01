@@ -289,27 +289,60 @@ I'm a versatile Computer Engineer and Full-Stack Developer with a passion for in
 
 ### Streaming & Video Editing
 
-<table>
-  <tr>
-    <th>Streaming Platforms</th>
-    <th>Streaming Tools</th>
-    <th>Video Editing</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="40" height="40" alt="Twitch"/>
-      <span style="color: blue; font-size: 12px;">YouTube</span>
-    </td>
-    <td>
-      <span style="color: blue; font-size: 12px;">OBS Studio</span>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40" alt="Adobe Photoshop"/>
-      <span style="color: blue; font-size: 12px;">Premiere Pro</span>
-      <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="40" height="40" alt="Adobe After Effects"/>
-    </td>
-  </tr>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th align="center" style="color: white;">Streaming Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🏆 Featured Projects
 
