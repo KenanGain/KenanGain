@@ -564,7 +564,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
 </div>
 <div align="center">
-  <a href="https://www.paypal.com/myaccount/transfer/homepage/buy/preview" target="_blank">
+  <a href="https://paypal.me/kenangain?country.x=IN&locale.x=en_GB" target="_blank">
     <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" alt="Donate with PayPal" style="height: 60px; width: 217px;">
   </a>
 </div>
