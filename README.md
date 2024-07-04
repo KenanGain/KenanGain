@@ -317,7 +317,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th align="center" style="color: white;">Infrastructure as Code</th>
+      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
     </tr>
   </thead>
   <tbody>
