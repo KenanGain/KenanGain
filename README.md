@@ -31,12 +31,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-</div>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
@@ -557,6 +551,14 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   </tr>
 </table>
 
+</div>
+
+<h2 align="center">Support Me</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  </a>
 </div>
 
 <h2 align="center">📫 Let's Connect!</h2>
