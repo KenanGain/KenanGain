@@ -323,12 +323,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="50" height="50"/><br>Terraform
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
       </td>
-       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td>
     </tr>
+    <tr><td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
+       </td></tr>
   </tbody>
 </table>
 </div>
