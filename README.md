@@ -554,24 +554,31 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </div>
 
 <h2 align="center">Support Me</h2>
+<div align="center">
+<table align="center">
+  <tr>
+    <th align="center">
+      <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
+        <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+    </td>
+    <td align="center">
+      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+    </td>
+  </tr>
+</table>
+</div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-</div>
-<div align="center">
-<img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-</div>
-<div align="center">
-  <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-  </a>
-  <div align="center">
-<img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="Buy paypal QR Code" width="150" height="150">
-</div>
-
-</div>
 
 
 
