@@ -325,10 +325,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
       </td>
-    </tr>
-    <tr><td align="center" style="border: none;">
+        <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td></tr>
+       </td>
+    </tr>
   </tbody>
 </table>
 </div>
