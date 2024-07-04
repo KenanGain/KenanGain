@@ -557,7 +557,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 200px;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
 </div>
 <div align="center">
@@ -565,7 +565,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </div>
 <div align="center">
   <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal">
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 60px; width: 217px;>
   </a>
 </div>
 
