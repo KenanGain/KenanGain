@@ -185,7 +185,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="Next.js"/><br>Next.js
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/><br>Next.js
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
