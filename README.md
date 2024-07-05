@@ -338,7 +338,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Languages & Libraries</th>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
     </tr>
   </thead>
   <tbody>
@@ -354,6 +354,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
       </td>
     </tr>
   </tbody>
