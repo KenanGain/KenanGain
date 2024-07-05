@@ -200,7 +200,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/><br>jQuery
+        <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/><br>jQuery
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
