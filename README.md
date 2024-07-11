@@ -398,10 +398,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="50" height="50"/><br>LangChain
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
       </td>
       <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="50"/><br>Ollama
+        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
       </td>
     </tr>
   </tbody>
