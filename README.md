@@ -283,7 +283,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://en.wikipedia.org/wiki/Neo4j#/media/File:Neo4j-logo_color.png" alt="Neo4j" width="50" height="50"/><br>Neo4j
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="80" height="50"/><br>Neo4j
       </td>
     </tr>
   </tbody>
