@@ -432,7 +432,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
       </td>
       <td align="center" style="border: none;">
-        <img src="https://commons.wikimedia.org/wiki/File:Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
       </td>
     </tr>
   </tbody>
