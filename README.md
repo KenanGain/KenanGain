@@ -268,7 +268,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">Database</th>
+      <th colspan="4" align="center" style="color: white;">Database</th>
     </tr>
   </thead>
   <tbody>
@@ -281,6 +281,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://en.wikipedia.org/wiki/Neo4j#/media/File:Neo4j-logo_color.png" alt="Neo4j" width="50" height="50"/><br>Neo4j
       </td>
     </tr>
   </tbody>
