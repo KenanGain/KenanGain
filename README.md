@@ -45,7 +45,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <div align="center">
  
-  
   <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   
 <br>
@@ -192,43 +191,51 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
         </a>
+        <br>Tailwind CSS
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
+        <br>React
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         </a>
+        <br>TypeScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
+        <br>JavaScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/><br>jQuery
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
         </a>
+        <br>jQuery
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
         </a>
+        <br>HTML
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
         </a>
+        <br>CSS
       </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 
 <div align="center">
