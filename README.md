@@ -414,7 +414,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">AI Tools</th>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -435,7 +435,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
       </td>
       <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idyv4d98RT.png" width="80" height="50" alt="Cohere"/><br>Cohere
+        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
       </td>
     </tr>
   </tbody>
