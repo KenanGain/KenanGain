@@ -395,7 +395,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="2" align="center" style="color: white;">Frameworks & Tools</th>
+      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -405,6 +405,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td align="center" style="border: none;">
         <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+      </td>
+  <td align="center" style="border: none;">
+        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
       </td>
     </tr>
   </tbody>
