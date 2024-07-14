@@ -26,12 +26,12 @@
       </td>
       <td align="center">
         <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=knightgamer87&size=square" alt="knightgamer87" style="width: 140px; height: 140px;">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87" style="width: 140px; height: 140px;">
         </a>
       </td>
       <td align="center">
         <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=knightgamer87&size=square" alt="knightgamer87" style="width: 140px; height: 140px;">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87" style="width: 140px; height: 140px;">
         </a>
       </td>
       <td align="center">
