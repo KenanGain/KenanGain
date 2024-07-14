@@ -130,7 +130,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </tr>
   </table>
 </div>
-
+<br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
