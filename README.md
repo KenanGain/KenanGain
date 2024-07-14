@@ -628,9 +628,17 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="mailto:kenangain2910@gmail.com"><img src="https://img.shields.io/badge/Email-kenangain2910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+14374364786"><img src="https://img.shields.io/badge/International%20Phone-%2B1%20(437--436--4786)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="International Phone"></a>
-  <a href="tel:+918200280008"><img src="https://img.shields.io/badge/Indian%20Phone-%2B91%20(820--028--0008)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Indian Phone"></a>
+ <a href="mailto:kenangain2910@gmail.com" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+</a>
+
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-4374364786">
+</a>
+
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-8200280008">
+</a>
 </p>
 <div align="center">
   
