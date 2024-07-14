@@ -676,11 +676,6 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <h3>Contacts</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="mailto:kenangain2910@gmail.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Kenan+Gain&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
