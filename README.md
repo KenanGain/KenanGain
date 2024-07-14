@@ -628,17 +628,18 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
- <a href="mailto:kenangain2910@gmail.com" target="_blank">
+<a href="mailto:kenangain2910@gmail.com" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
 </a>
 
 <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-4374364786">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786">
 </a>
 
 <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-8200280008">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008">
 </a>
+
 </p>
 <div align="center">
   
