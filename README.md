@@ -18,16 +18,25 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kenangain.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://www.kenangain.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-KnightGamer87-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KnightGamer87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenan%20Gain-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenan-gain-33048518a/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord)](https://discord.gg/YdDyV6QqEN)
-[![Instagram](https://img.shields.io/badge/Instagram-knightgamer87-e4405f?style=for-the-badge&logo=instagram)](https://instagram.com/knightgamer87/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook-Kenan%20Gain-1877f2?style=for-the-badge&logo=facebook)](https://facebook.com/kenan.gain)
-[![Twitch](https://img.shields.io/badge/Twitch-knightgamer2910-9146ff?style=for-the-badge&logo=twitch)](https://twitch.tv/knightgamer2910)
-[![Loco](https://img.shields.io/badge/Loco-KnightGamer87-ff5c5c?style=for-the-badge&logo=loco)](https://loco.gg/streamers/IGK07LN6IY)
-[![Twitter](https://img.shields.io/badge/Twitter-gain_kenan-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/gain_kenan)
-[![Reddit](https://img.shields.io/badge/Reddit-Automated_Artistry-ff4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Automated_Artistry)
+[![Kenan Gain](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/)
+
+[![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87)
+
+[![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=knightgamer87&size=square)](https://www.instagram.com/knightgamer87/)
+
+[![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/)
+
+[![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain)
+
+[![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910)
+
+[![KenanGain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan)
+
+[![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry)
+
+[![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN)
+
+[![/Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain)
 
 </div>
 
