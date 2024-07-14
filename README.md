@@ -568,7 +568,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
 
 <p align="center">
- [![My Playlist](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide)](https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb)
+<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+</a>
+
 
 </p>
 
