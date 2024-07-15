@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=Automated_Artistry&size=square" alt="Automated_Artistry">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
       </a>
     </td>
     <td align="center">
