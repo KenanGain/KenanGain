@@ -719,10 +719,12 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 <br>
 
+<h4>
 <div align="center">
-  <h4>
+  
 ⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
-</h4>
+
 </div>
+</h4>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
