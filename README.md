@@ -131,6 +131,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
     </tr>
   </table>
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
 </div>
 <br>
 <details>
