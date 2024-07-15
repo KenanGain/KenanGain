@@ -21,7 +21,7 @@
     <tr>
       <td align="center">
         <a href="https://www.kenangain.com/" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain" style="width: 140px; height: 140px;">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain" style="width: 140; height: 140;">
         </a>
       </td>
       <td align="center">
