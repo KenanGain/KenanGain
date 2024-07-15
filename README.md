@@ -701,7 +701,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Kenan+Gain&size=square" alt="Kenan Gain" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
