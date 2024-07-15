@@ -98,7 +98,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=vision-friendly-dark" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
