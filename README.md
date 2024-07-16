@@ -666,28 +666,36 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 <h2 align="center">Support Me</h2>
 <div align="center">
-<table align="center">
-  <tr>
-    <th align="center">
-      <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-      </a>
-    </th>
-    <th align="center">
-      <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-        <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-    </td>
-    <td align="center">
-      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <th align="center">
+        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
+          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
+          <img src="https://github.com/user-attachments/assets/54a1f898-2599-42aa-b671-90d1ca084d9a" alt="Donate with Stripe" style="height: 60px; width: 217px;">
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+      </td>
+      <td align="center">
+        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/54a1f898-2599-42aa-b671-90d1ca084d9a" alt="Stripe QR Code" width="150" height="150">
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -723,6 +731,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <div align="center">
   
 ⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+
 
 </div>
 </h3>
