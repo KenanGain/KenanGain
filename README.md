@@ -680,7 +680,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
       </th>
       <th align="center">
         <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/54a1f898-2599-42aa-b671-90d1ca084d9a" alt="Donate with Stripe" style="height: 60px; width: 217px;">
+          <img src="https://github.com/user-attachments/assets/3899f854-4945-4f8a-9d5c-8d551734fd76" alt="Donate with Stripe" style="height: 60px; width: 217px;">
         </a>
       </th>
     </tr>
@@ -689,7 +689,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
         <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/3899f854-4945-4f8a-9d5c-8d551734fd76" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
@@ -697,9 +697,6 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
   </table>
 </div>
-
-
-
 
 <h2 align="center">📫 Let's Connect!</h2>
 
