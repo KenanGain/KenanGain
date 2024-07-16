@@ -680,7 +680,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
       </th>
       <th align="center">
         <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px;">
+          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="120">
         </a>
       </th>
     </tr>
