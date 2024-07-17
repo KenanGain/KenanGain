@@ -683,6 +683,11 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
           <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
         </a>
       </th>
+      <th align="center">
+        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
+          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+        </a>
+      </th>
     </tr>
     <tr>
       <td align="center">
@@ -693,6 +698,9 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
+      </td>
+      <td align="center">
+        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
