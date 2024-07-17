@@ -166,7 +166,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
           <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-228%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
       <td align="center" style="border: none;">
