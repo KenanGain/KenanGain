@@ -125,6 +125,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
           <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/fast-gemini-nano&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/KenanGain/weather-app-3d">
           <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/weather-app-3d&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
@@ -137,6 +139,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
           <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/moviedjangoai&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/KenanGain/speech-to-text">
           <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/speech-to-text&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
@@ -145,6 +149,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </tr>
   </table>
 </div>
+
 
 <br>
 <details>
