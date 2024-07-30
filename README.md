@@ -122,29 +122,30 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td>
         <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/fast-gemini-nano&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
       <td>
         <a href="https://github.com/KenanGain/weather-app-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/weather-app-3d&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/moviedjangoai&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KenanGain/speech-to-text">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/KenanGain/speech-to-text&mode=dark&style=horizontal&color=black&size=small&theme=minimal" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 <br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
