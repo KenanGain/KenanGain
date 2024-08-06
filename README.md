@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/KenanGain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Hello,%20I%20am%20a%20dynamic%20computer%20engineer%20and%20innovative%20web%20developer%20with%20expertise%20in%20cloud%20computing,%20AI%20engineering,%20and%20full-stack%20development.%20As%20a%20content%20creator,%20YouTuber,%20streamer,%20PC%20builder,%20and%20video%20editor,%20I%20bring%20a%20creative%20flair%20and%20technical%20prowess%20to%20every%20project.%20Let's%20connect%20and%20build%20the%20future%20together!&image=https%3A%2F%2Fgithub.com%2FKenanGain%2FKenanGain%2Fblob%2Fmain%2FScreenshot_20230128-144804490-01_AnyMaking%2520(1)_AnyMaking%2520Cropped.jpg%3Fraw%3Dtrue
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Hello,%20I%20am%20a%20dynamic%20computer%20engineer%20and%20innovative%20web%20developer%20with%20expertise%20in%20cloud%20computing,%20AI%20engineering,%20and%20full-stack%20development.%20As%20a%20content%20creator,%20YouTuber,%20streamer,%20PC%20builder,%20and%20video%20editor,%20I%20bring%20a%20creative%20flair%20and%20technical%20prowess%20to%20every%20project.%20Let's%20connect%20and%20build%20the%20future%20together!&image=https://drive.google.com/file/d/1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN/view?usp=sharing
 &backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
 
   </a>
