@@ -126,8 +126,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/weather-app-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
