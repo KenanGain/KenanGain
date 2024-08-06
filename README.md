@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/KenanGain">
-    <img src="https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01_AnyMaking (2)_AnyMaking.jpg" alt="Kenan Gain" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Hello,%20I%20am%20a%20dynamic%20computer%20engineer%20and%20innovative%20web%20developer%20with%20expertise%20in%20cloud%20computing,%20AI%20engineering,%20and%20full-stack%20development.%20As%20a%20content%20creator,%20YouTuber,%20streamer,%20PC%20builder,%20and%20video%20editor,%20I%20bring%20a%20creative%20flair%20and%20technical%20prowess%20to%20every%20project.%20Let's%20connect%20and%20build%20the%20future%20together!&image=https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01_AnyMaking%20(2)_AnyMaking.jpg?v=4&backgroundColor=000000&color=ffffff&pattern=leaf&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
   </a>
 </div>
 
