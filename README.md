@@ -182,16 +182,16 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
   </tr>
   </table>
-
 <div align="center">
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
+</div>
   <h3>
     <a href="https://discord.gg/YdDyV6QqEN">
-      <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
       Join Our Discord Community
     </a>
   </h3>
-</div>
 
+</div>
 <table>
   <tr>
     <!-- Discord Widget Column -->
