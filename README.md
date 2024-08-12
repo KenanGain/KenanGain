@@ -168,17 +168,18 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <div align="center">
 
-  <div align="center">
-  <a href="https://www.instagram.com/knightgamer87/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=flat-square&logo=instagram" alt="Instagram Badge">
-    </div>
-  </a>
-</div>
 
 <div align="center">
 <table>
+  <tr>
+  <td align="center" style="border: none;">
+        <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+        <div>
+          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+        </div>
+      </td>
+  </tr>
   <tr>
     <!-- Discord Column -->
     <td align="center" style="border: none;">
@@ -200,24 +201,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
   </tr>
-
-  <tr>
-    <!-- YouTube Column -->
-    <td align="center" style="border: none;">
-      <a href="https://www.youtube.com/@KnightGamer87">
-        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
-        <div align="center">
-          <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube Subscribe">
-        </div>
-        <div>
-          <img src="https://youtube-stats-card.vercel.app/api?username=KnightGamer87" alt="YouTube Stats">
-        </div>
-      </a>
-    </td>
-  </tr>
 </table>
 
+<h3 align="center">YouTube Stats</h3>
 
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
