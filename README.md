@@ -171,8 +171,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <div align="center">
-<table>
-  <tr>
+  <table>
+      <tr>
   <td align="center" style="border: none;">
         <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
@@ -181,15 +181,20 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </div>
       </td>
   </tr>
+  </table>
+<table>
+
   <tr>
     <!-- Discord Column -->
     <td align="center" style="border: none;">
       <a href="https://discord.gg/YdDyV6QqEN">
         <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
         <div align="center">
-          <div>
-            <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
-          </div>
+          <div align="center">
+  <a href="https://discord.gg/YdDyV6QqEN">
+    <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
+  </a>
+</div>
           <div>
             <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
           </div>
