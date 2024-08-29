@@ -148,6 +148,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </div>
 
+### GitHub Contribution Chart
+<a href="https://github.com/KenanGain">
+    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
+</a>
+
+
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
   
