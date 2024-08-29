@@ -160,7 +160,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
 
-[![Repography](https://reporoster.com/stars/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
+[![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
 
 <br>
 <details>
