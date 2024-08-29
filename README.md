@@ -171,6 +171,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 [![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
 
+<details>
+  <summary>GitHub Star History for KenanGain</summary>
+
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#KenanGain/KenanGain&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark" />
+  </a>
+
+</details>
+
+
 <br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
