@@ -807,5 +807,5 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
-[![KenanGain's OpenSauced Card](https://app.opensauced.pizza/u/KenanGain/card)](https://app.opensauced.pizza/u/KenanGain)
+![image](https://github.com/user-attachments/assets/eff0e640-1f8a-4eb9-af70-6f43c3362a1e)
 
