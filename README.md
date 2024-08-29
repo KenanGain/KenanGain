@@ -283,13 +283,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409)](https://stackoverflow.com/users/21519409/kenan-gain)
+
 
 
 <h3 align="center">Stack overflow</h3>
 <div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409)](https://stackoverflow.com/users/21519409/kenan-gain)
 </a>
 </div>
 
