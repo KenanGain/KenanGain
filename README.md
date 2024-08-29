@@ -155,7 +155,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <details>
-  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
+  <summary style="font-size: 1.17em; font-weight: bold;"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" /></summary>
   
   <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
 
