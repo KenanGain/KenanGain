@@ -698,6 +698,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
+<details>
+  <summary>Wanna Play a Game?</summary>
+
+  <h2 align="center">Enjoy the Game!</h2>
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+  <br />
+</details>
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
@@ -737,17 +744,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   </details>
 </div>
 
-<details>
-  <summary>Wanna Play a Game?</summary>
 
-  <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-  <br />
-  <img align="center" src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" alt="Snake Game" />
-  <br />
-  <img align="center" src="https://github.com/KenanGain/KenanGain/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</details>
 
 
 <h2 align="center">Support Me</h2>
