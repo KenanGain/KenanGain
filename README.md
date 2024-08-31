@@ -194,7 +194,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 <div align="center">
   <h2 align="center">
-  Socials Stats<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" />
+  Socials Stats<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" />
 </h2>
 
 </div>
