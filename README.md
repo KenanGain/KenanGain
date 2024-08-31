@@ -193,11 +193,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 <div align="center">
-  <h2 align="center">
-  Socials Stats<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" />
-</h2>
-
+  <h2 align="center" style="display: inline-flex; align-items: baseline;">
+    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+  </h2>
 </div>
+
 <div align="center">
   <div align="center">
     <a href="https://www.instagram.com/knightgamer87/" target="_blank">
