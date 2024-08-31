@@ -283,9 +283,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-      <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
-      </a>
+     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
