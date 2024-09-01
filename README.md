@@ -155,12 +155,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <details>
-  <summary style="font-size: 1.17em; font-weight: bold;"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" /></summary>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
   
   <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-
+  
   <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
+  
+  <img src="https://github-stats-alpha.vercel.app/api?username=KenanGain&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats for KenanGain">
+  
+  <img src="https://gh-readme-profile.vercel.app/api?username=KenanGain&theme=highcontrast" alt="GitHub Profile for KenanGain">
+  
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain">
 </details>
+
 
 <br>
 
