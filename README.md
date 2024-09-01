@@ -160,13 +160,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </summary>
   
   <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-  <table>
-  <tr>
-    <th colspan="2">GitHub Stats</th>
       <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain">
-  </tr>
-</table>
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="120'>
+
 
 </details>
 
