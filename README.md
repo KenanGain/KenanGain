@@ -296,7 +296,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
+<h3 align="center">Stardev.io</h3>
 
+<a href="https://stardev.io/developers/KenanGain"><img alt="Check out KenanGain&apos;s profile on stardev.io" src="https://stardev.io/developers/KenanGain/badge/languages/global.svg" /></a>
 
 
 <h3 align="center">Stack overflow</h3>
