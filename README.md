@@ -192,6 +192,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
   <img src="https://stats.dooboo.io/api/github-trophies?login=KenanGain" alt="GitHub Trophies for KenanGain">
 </details>
 
