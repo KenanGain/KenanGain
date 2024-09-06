@@ -733,6 +733,44 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <br />
 </details>
 
+## 🎥 My YouTube Channel
+
+### Videos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Knight Gamer Setup 2.0</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Bora Bora (Valorant Montage) | 1440p</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Knight Gamer Logo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Epic Gameplay Montage" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Epic Gameplay Montage</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="QHD 60FPS" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">QHD 60FPS</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="BGMI Frag Movie" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">BGMI Frag Movie</a></p>
+    </td>
+  </tr>
+</table>
+
+Check out more on my YouTube channel: [KnightGamer87](https://www.youtube.com/@KnightGamer87)
+
+
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
@@ -852,42 +890,3 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
-
-## 🎥 My YouTube Channel
-
-### Latest Videos
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Video 1" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Video Title 1</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Video 2" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Video Title 2</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Video 3" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Video Title 3</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Video 4" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Video Title 4</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="Video 5" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">Video Title 5</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="Video 6" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">Video Title 6</a></p>
-    </td>
-  </tr>
-</table>
-
-Check out more on my YouTube channel: [KnightGamer87](https://www.youtube.com/@KnightGamer87)
-
