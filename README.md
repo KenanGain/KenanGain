@@ -854,4 +854,9 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
+## Watch My Latest Video
+
+[![My YouTube Video](https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg)](https://www.youtube.com/watch?v=sdLwa-Ckri0)
+
+Click the image above to watch my latest video on YouTube!
 
