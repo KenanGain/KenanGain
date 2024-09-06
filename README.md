@@ -325,10 +325,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-
-
-
-
 </div>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
@@ -725,17 +721,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-<details>
-  <summary>Wanna Play a Game?</summary>
-
-  <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-  <br />
-</details>
-
 ## 🎥 My YouTube Channel
 
-### Videos
+### My Videos
 
 <table>
   <tr>
@@ -749,7 +737,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Knight Gamer Logo</a></p>
+      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Lean on</a></p>
     </td>
   </tr>
   <tr>
@@ -768,8 +756,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-Check out more on my YouTube channel: [KnightGamer87](https://www.youtube.com/@KnightGamer87)
+<details>
+  <summary>Wanna Play a Game?</summary>
 
+  <h2 align="center">Enjoy the Game!</h2>
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+  <br />
+</details>
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
