@@ -854,9 +854,40 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
-## Watch My Latest Video
+## 🎥 My YouTube Channel
 
-[![My YouTube Video](https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg)](https://www.youtube.com/watch?v=sdLwa-Ckri0)
+### Latest Videos
 
-Click the image above to watch my latest video on YouTube!
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Video 1" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Video Title 1</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Video 2" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Video Title 2</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Video 3" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Video Title 3</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Video 4" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Video Title 4</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="Video 5" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">Video Title 5</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="Video 6" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">Video Title 6</a></p>
+    </td>
+  </tr>
+</table>
+
+Check out more on my YouTube channel: [KnightGamer87](https://www.youtube.com/@KnightGamer87)
 
