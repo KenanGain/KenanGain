@@ -229,12 +229,18 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <table>
   <tr>
-    <th>Features</th>
-    <th>Quick Start</th>
     <th>Upcoming Features</th>
+    <th>Features</th>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
+      <ul>
+        <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
+        <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
+        <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
+      </ul>
+    </td>
+    <td valign="top">
       <ul>
         <li><strong>AI-Powered Interaction</strong>: Engage with your documents through natural language conversations.</li>
         <li><strong>Real-Time Processing</strong>: Upload and start conversing with your documents without any delay.</li>
@@ -244,18 +250,14 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <li><strong>Continuous Updates</strong>: Regular updates to add new features and enhance the user experience.</li>
       </ul>
     </td>
-    <td>
-      <p>Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.</p>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
-        <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
-        <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
-      </ul>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Quick Start:</strong> Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.
     </td>
   </tr>
 </table>
+
 
 
 
