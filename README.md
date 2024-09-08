@@ -225,24 +225,37 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-### Features
+# Features and Highlights
 
-- **AI-Powered Interaction**: Engage with your documents through natural language conversations.
-- **Real-Time Processing**: Upload and start conversing with your documents without any delay.
-- **Advanced Query Understanding**: Utilizes the latest in AI technology to comprehend and respond to inquiries accurately.
-- **Serverless Architecture**: Ensures high availability and scalability without the hassle of infrastructure management.
-- **Secure Authentication**: Integrates with Clerk to provide reliable and secure access to the platform.
-- **Continuous Updates**: Regular updates to add new features and enhance the user experience.
-
-### Quick Start
-
-Visit [Document Whispers](https://documentwhispers.com) to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.
-
-### Upcoming Features
-
-- **Multilingual Support**: To help users worldwide engage with their documents.
-- **Mobile Application**: Access Document Whispers on the go with our upcoming mobile app.
-- **Enhanced Security Measures**: Additional layers of security to protect your sensitive information.
+<table>
+  <tr>
+    <th>Features</th>
+    <th>Quick Start</th>
+    <th>Upcoming Features</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><strong>AI-Powered Interaction</strong>: Engage with your documents through natural language conversations.</li>
+        <li><strong>Real-Time Processing</strong>: Upload and start conversing with your documents without any delay.</li>
+        <li><strong>Advanced Query Understanding</strong>: Utilizes the latest in AI technology to comprehend and respond to inquiries accurately.</li>
+        <li><strong>Serverless Architecture</strong>: Ensures high availability and scalability without the hassle of infrastructure management.</li>
+        <li><strong>Secure Authentication</strong>: Integrates with Clerk to provide reliable and secure access to the platform.</li>
+        <li><strong>Continuous Updates</strong>: Regular updates to add new features and enhance the user experience.</li>
+      </ul>
+    </td>
+    <td>
+      <p>Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.</p>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
+        <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
+        <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
