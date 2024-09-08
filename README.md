@@ -199,8 +199,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
+<br>
+
 # Multiple Pathways to Innovation: Explore My SaaS Products
 
+<br>
+<br>
 ## 1.Document Whispers: AI Answers, Knowledge Revealed
 
 <table>
@@ -260,8 +264,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </details>
 
 
+<br>
 
-
+<br>
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
