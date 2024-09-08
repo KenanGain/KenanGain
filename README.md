@@ -199,48 +199,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-# Document Whispers: AI Answers, Knowledge Revealed
-
-<p align="center">
-  <img src="URL_TO_MAIN_IMAGE" width="80%" alt="Document Whispers Main">
-</p>
-
-<div align="center">
-  <b>Unlock the Voice of PDF</b>
-</div>
-
-<p align="center">
-  Welcome to <b>'Document Whispers'</b>, the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.
-</p>
-
-<div align="center">
-  <a href="LINK_TO_YOUR_SITE"><img src="https://img.shields.io/badge/Visit-Document%20Whispers-blue?style=for-the-badge&logo=appveyor"></a>
-</div>
-
-## Features
-- **Fast AI Responses**: Instant answers using the Vercel AI SDK.
-- **Interactive PDF Reading**: Chat directly with your uploaded documents.
-- **Quality Answers**: Deep learning analysis for comprehensive responses.
-
-## Screenshots
-
-<table>
-  <tr>
-    <td>
-      <img src="URL_TO_IMAGE_1" width="100%" alt="Screenshot 1">
-    </td>
-    <td>
-      <img src="URL_TO_IMAGE_2" width="100%" alt="Screenshot 2">
-    </td>
-  </tr>
-</table>
-
-## Try It Out
-Experience the power of AI-driven document interactions today:
-- [Document Whispers Live](LINK_TO_YOUR_SITE)
-
-## Stay Updated
-For upcoming features and updates, follow us on [GitHub](LINK_TO_GITHUB_PROFILE) or check our [project roadmap](LINK_TO_PROJECT_ROADMAP).
 
 
 <div align="center">
