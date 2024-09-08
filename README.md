@@ -199,6 +199,31 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
+# Multiple Pathways to Innovation: Explore My SaaS Products
+
+## Document Whispers: AI Answers, Knowledge Revealed
+
+<table>
+  <tr>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="/saasimages/Screenshot 2024-09-08 164129.png" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+    </td>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="/saasimages/Screenshot 2024-09-08 170328.png" width="100%" alt="Document Interface">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
+      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
+      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
