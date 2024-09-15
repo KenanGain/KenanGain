@@ -852,18 +852,18 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <table>
     <tr>
       <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" width="300px" />
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
       </td>
       <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" width="300px" />
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
       </td>
     </tr>
     <tr>
       <td colspan="4">
-        <img src="https://github.com/KenanGain/KenanGain/raw/main/docker-pull-ubuntu.gif" width="200px" />
-        <img src="https://github.com/KenanGain/KenanGain/raw/main/do-not-run-python-python-computer.gif" width="200px" />
-        <img src="https://github.com/KenanGain/KenanGain/raw/main/linus-tech.gif" width="200px" />
-        <img src="https://github.com/KenanGain/KenanGain/raw/main/feature-tree.gif" width="200px" />
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
       </td>
     </tr>
   </table>
