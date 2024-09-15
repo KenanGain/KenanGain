@@ -839,14 +839,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-<details>
-  <summary>Wanna Play a Game?</summary>
+</br>
 
-  <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-  <br />
-</details>
-
+###GIFs, Memes, and Jokes
 <details>
 <summary>GIFs, Memes, and Jokes</summary>
 <div align="center">
@@ -878,6 +873,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </div>
 </details>
+
+</br>
+<details>
+  <summary>Wanna Play a Game?</summary>
+
+  <h2 align="center">Enjoy the Game!</h2>
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+  <br />
+</details>
+
+
 
 
 
