@@ -858,10 +858,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
       </td>
     </tr>
-    <tr align="center">
+    <tr>
       <td colspan="4">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" width="200px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" width="200px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" width="200px" />
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" width="200px" />
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" width="100px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" width="100px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" width="100px" />
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" width="100px" />
       </td>
     </tr>
   </table>
