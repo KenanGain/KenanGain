@@ -812,7 +812,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="Your Next Project?"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" width="300" alt="Your Next Project?"/>
       <br>
       <strong>Your Next Project?</strong>
       <br>
