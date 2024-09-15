@@ -774,7 +774,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="Sara AI"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif" width="300" alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
