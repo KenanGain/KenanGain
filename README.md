@@ -797,7 +797,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="Weather 3D AI App"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif" width="300" alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
