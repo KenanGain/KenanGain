@@ -755,24 +755,24 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h2 align="center">🏆 Featured Projects</h2>
 
-<table align="center">
+<table align="center" style="width:100%; table-layout: fixed;">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="AI Content Creation"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="MapleLaw AI"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="Sara AI"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
@@ -780,22 +780,22 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="4K60 Streaming"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
       High-performance streaming with instant replay
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="Cloud-Native Web Apps"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="Weather 3D AI App"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
@@ -803,15 +803,15 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="Fast Gemini Nano"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Fast Gemini Nano"/>
       <br>
       <strong>Fast-Gemini-Nano</strong>
       <br>
       Local LLM Chrome AI – extremely fast, still in development but highly promising
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/240x135" width="300" alt="Your Next Project?"/>
+    <td align="center" style="padding: 10px;">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Your Next Project?"/>
       <br>
       <strong>Your Next Project?</strong>
       <br>
@@ -819,6 +819,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
 </table>
+
 
 
 
