@@ -145,7 +145,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td colspan="2">
         <a href="https://github.com/KenanGain/SmolLM">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
