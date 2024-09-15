@@ -752,12 +752,34 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </table>
 </div>
 
-
 ## 🏆 Featured Projects
 
 <div align="center">
 
 <table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif" width="300" alt="Sara AI"/>
+      <br>
+      <strong>Sara AI for Canadian Tire</strong>
+      <br>
+      AI-enhanced shopping experience
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif" width="300" alt="Weather 3D AI App"/>
+      <br>
+      <strong>Weather-3D-AI App</strong>
+      <br>
+      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" width="300" alt="Fast Gemini Nano"/>
+      <br>
+      <strong>Fast-Gemini-Nano</strong>
+      <br>
+      Local LLM Chrome AI – extremely fast, still in development but highly promising
+    </td>
+  </tr>
   <tr>
     <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="AI Content Creation"/>
@@ -774,43 +796,20 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif" width="300" alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
       High-performance streaming with instant replay
     </td>
+  </tr>
+  <tr>
     <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif" width="300" alt="Weather 3D AI App"/>
-      <br>
-      <strong>Weather-3D-AI App</strong>
-      <br>
-      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" width="300" alt="Fast Gemini Nano"/>
-      <br>
-      <strong>Fast-Gemini-Nano</strong>
-      <br>
-      Local LLM Chrome AI – extremely fast, still in development but highly promising
     </td>
     <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Your Next Project?"/>
