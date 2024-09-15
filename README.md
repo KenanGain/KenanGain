@@ -796,7 +796,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169"  alt="4K60 Streaming"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
