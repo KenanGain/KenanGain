@@ -759,21 +759,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif" width="300" alt="Sara AI"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
       AI-enhanced shopping experience
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif" width="300" alt="Weather 3D AI App"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
       Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" width="300" alt="Fast Gemini Nano"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
       <br>
       <strong>Fast-Gemini-Nano</strong>
       <br>
@@ -782,21 +782,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="AI Content Creation"/>
+      <img src="https://via.placeholder.com/300x169"  alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="MapleLaw AI"/>
+      <img src="https://via.placeholder.com/300x169"  alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="4K60 Streaming"/>
+      <img src="https://via.placeholder.com/300x169"  alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
@@ -812,7 +812,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" width="300" alt="Your Next Project?"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
       <br>
       <strong>Your Next Project?</strong>
       <br>
