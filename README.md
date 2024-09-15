@@ -847,6 +847,29 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <br />
 </details>
 
+### GIFs, Memes, and Jokes
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" width="300px" />
+      </td>
+      <td>
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" width="300px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <img src="https://github.com/KenanGain/KenanGain/raw/main/docker-pull-ubuntu.gif" width="200px" />
+        <img src="https://github.com/KenanGain/KenanGain/raw/main/do-not-run-python-python-computer.gif" width="200px" />
+        <img src="https://github.com/KenanGain/KenanGain/raw/main/linus-tech.gif" width="200px" />
+        <img src="https://github.com/KenanGain/KenanGain/raw/main/feature-tree.gif" width="200px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
