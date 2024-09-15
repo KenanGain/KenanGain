@@ -275,6 +275,77 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
+      <br>
+      <strong>Sara AI for Canadian Tire</strong>
+      <br>
+      AI-enhanced shopping experience
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
+      <br>
+      <strong>Weather-3D-AI App</strong>
+      <br>
+      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
+      <br>
+      <strong>Fast-Gemini-Nano</strong>
+      <br>
+      Local LLM Chrome AI – extremely fast, still in development but highly promising
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://via.placeholder.com/300x169"  alt="AI Content Creation"/>
+      <br>
+      <strong>AI-Powered Content Creation</strong>
+      <br>
+      Automated content generation using various LLMs
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://via.placeholder.com/300x169"  alt="MapleLaw AI"/>
+      <br>
+      <strong>MapleLaw AI</strong>
+      <br>
+      Legal information assistant for Canadian citizens
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
+      <br>
+      <strong>4K60 Streaming Setup</strong>
+      <br>
+      High-performance streaming with instant replay
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
+      <br>
+      <strong>Cloud-Native Web Apps</strong>
+      <br>
+      Next.js, React, Django with Docker & Kubernetes
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
+      <br>
+      <strong>Your Next Project?</strong>
+      <br>
+      Let's collaborate on something amazing!
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br>
 
 <div align="center">
@@ -751,81 +822,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tbody>
 </table>
 </div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
-      <br>
-      <strong>Weather-3D-AI App</strong>
-      <br>
-      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
-      <br>
-      <strong>Fast-Gemini-Nano</strong>
-      <br>
-      Local LLM Chrome AI – extremely fast, still in development but highly promising
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169"  alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169"  alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
-      <br>
-      <strong>Your Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-
 
 
 ## 🎥 My YouTube Channel
