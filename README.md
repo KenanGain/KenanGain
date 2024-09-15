@@ -847,7 +847,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <br />
 </details>
 
-### GIFs, Memes, and Jokes
+<details>
+<summary>GIFs, Memes, and Jokes</summary>
 <div align="center">
   <table>
     <tr>
@@ -859,13 +860,25 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
     </tr>
     <tr>
-      <td colspan="4">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" width="100px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" width="100px" /><img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" width="100px" />
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" width="100px" />
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+      </td>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
+      </td>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
       </td>
     </tr>
   </table>
 </div>
+</details>
+
 
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
