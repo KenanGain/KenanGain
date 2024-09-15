@@ -758,21 +758,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
@@ -781,21 +781,37 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
       High-performance streaming with instant replay
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="Weather 3D AI App"/>
+      <br>
+      <strong>Weather-3D-AI App</strong>
+      <br>
+      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="Fast Gemini Nano"/>
+      <br>
+      <strong>Fast-Gemini-Nano</strong>
+      <br>
+      Local LLM Chrome AI – extremely fast, still in development but highly promising
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/240x135" width="240" height="135" alt="Your Next Project?"/>
       <br>
       <strong>Your Next Project?</strong>
       <br>
@@ -803,6 +819,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
 </table>
+
 
 ## 🎥 My YouTube Channel
 
