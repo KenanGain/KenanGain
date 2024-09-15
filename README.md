@@ -841,7 +841,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </br>
 
-###GIFs, Memes, and Jokes
+### GIFs, Memes, and Jokes
 
 <details>
 <summary>GIFs, Memes, and Jokes</summary>
