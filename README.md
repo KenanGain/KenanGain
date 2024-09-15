@@ -759,21 +759,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
@@ -782,21 +782,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
       High-performance streaming with instant replay
     </td>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
     </td>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
@@ -805,14 +805,14 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Fast Gemini Nano"/>
       <br>
       <strong>Fast-Gemini-Nano</strong>
       <br>
       Local LLM Chrome AI – extremely fast, still in development but highly promising
     </td>
-    <td align="center">
+    <td align="center" width="300" height="200">
       <img src="https://via.placeholder.com/300x169" width="300" alt="Your Next Project?"/>
       <br>
       <strong>Your Next Project?</strong>
@@ -823,6 +823,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </table>
 
 </div>
+
 
 
 
