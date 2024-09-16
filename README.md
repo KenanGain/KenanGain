@@ -337,7 +337,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <td align="center" width="300" height="200">
       <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
       <br>
-      <strong>Your Next Project?</strong>
+      <strong>Next Project?</strong>
       <br>
       Let's collaborate on something amazing!
     </td>
