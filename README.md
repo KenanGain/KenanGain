@@ -312,7 +312,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Automated content generation using various LLMs
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169"  alt="MapleLaw AI"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
