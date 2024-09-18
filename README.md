@@ -293,7 +293,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
-      Modern design with Tailwind CSS, shadcn UI (dark theme), AI integration, Wikipedia, and local news widgets
+      Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
     </td>
     <td align="center" width="300" height="200">
       <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
