@@ -222,12 +222,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <td>
       <a href="https://maplelawai.com">
-        <img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
+        <img src="/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
       </a>
     </td>
     <td>
       <a href="https://maplelawai.com">
-        <img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
+        <img src="/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
       </a>
     </td>
   </tr>
