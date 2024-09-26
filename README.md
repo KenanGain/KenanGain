@@ -234,11 +234,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <td colspan="2">
       <p><strong>Welcome to 🍁 <a href="https://maplelawai.com">MapleLawAI</a>,</strong> your all-in-one AI-powered legal tool designed to support Canadian citizens, lawyers, immigrants, law students, and small businesses. Imagine a world where legal barriers no longer exist—where access to legal knowledge and services is a right for every Canadian, regardless of their background or financial standing. This isn't just a dream; it's the reality 🍁MapleLawAI is creating.</p>
-      
       <p>🍁<strong>MapleLawAI</strong> is an avant-garde platform revolutionizing the legal sector in Canada. Built for both clients and legal professionals, our platform stands as a beacon of innovation, efficiency, and accessibility. Leveraging the best Large Language Models (LLMs) and a comprehensive vector database containing all Canadian legal documents, MapleLawAI ensures that you have the most accurate and up-to-date legal information at your fingertips.</p>
-      
-      <p>Our Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers blazing-fast responses and reliable performance. Whether you're researching case law, preparing for court, or seeking legal advice, MapleLawAI is your trusted partner.</p>
-      
+       <p>Our Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers blazing-fast responses and reliable performance. Whether you're researching case law, preparing for court, or seeking legal advice, MapleLawAI is your trusted partner.</p>
       <p>But we’re just getting started. MapleLawAI is continually evolving with future features like a virtual courthouse, where arguments can be presented and a virtual judge delivers justice. Our platform will also analyze case law to provide statistics and insightful answers, complemented by comprehensive dashboards and a robust research platform. Additionally, we plan to expand globally with specialized legal AI tools such as Egale Legal AI for the USA, JusticeMate AI for Australia, RedBusLaw AI for the UK, MaoriJusticeAI for New Zealand, and FrankfurtLegalBot for Germany.</p>
     </td>
   </tr>
