@@ -145,15 +145,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </a>
       </td>
     </tr>
-    <tr align="center">
-      <td colspan="2">
+    <tr>
+      <td>
         <a href="https://github.com/KenanGain/SmolLM">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ### GitHub Contribution Chart
