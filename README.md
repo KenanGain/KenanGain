@@ -402,7 +402,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169" width="300" alt="Cloud-Native Web Apps"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
