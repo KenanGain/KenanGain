@@ -379,7 +379,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://via.placeholder.com/300x169"  alt="AI Content Creation"/>
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
