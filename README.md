@@ -348,7 +348,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 # Coming soon
 
- <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
+ <img  width="100%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
 
 <h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
 
