@@ -346,6 +346,22 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </details>
 
+# Coming soon
+
+<h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
+
+<p><strong>Super GPT</strong> is here to unite the world’s top LLMs, because why settle for one when you can have them all? Currently in development, this powerhouse is over-prepared to handle web searches, document interrogation, and even video analysis. If you need something found, explained, or overanalyzed, Super GPT has you covered.</p>
+
+<p>Mixing small and large language models like a tech smoothie, Super GPT doesn’t just answer questions; it contemplates existence. With a sleek UI that practically <em>whispers</em> “futuristic,” Super GPT is setting a gold standard in AI that we’re almost certain no one actually asked for—but everyone will soon need.</p>
+
+<hr>
+
+<h2>🔍 Ultimate AI Search Engine: For When You Want Answers, Not Opinions</h2>
+
+<p>Enter the <strong>Ultimate AI Search Engine</strong>—because good enough is simply unacceptable. This ambitious project aims to put SearchGPT to shame, pulling in multiple LLMs for a layered, context-savvy search experience that adjusts to your wildest curiosities.</p>
+
+<p>Built to do more than just “find stuff,” the Ultimate AI Search Engine promises to dive headfirst into the internet's abyss and return with gems of wisdom. From web, document, and knowledge retrieval, it’s your go-to for precise answers and the kind of search results that will leave you wondering how you ever managed without it.</p>
+
 
 <br>
 
