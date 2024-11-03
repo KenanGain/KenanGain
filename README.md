@@ -184,7 +184,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 ### KenanGain/README.md activity
-<img width="25%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
 
@@ -348,7 +348,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 # Coming soon
 
- <img  width="100%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
+ <img  width="25%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
 
 <h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
 
