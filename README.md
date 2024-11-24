@@ -1098,25 +1098,39 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>WhatsApp (Canada)</th>
+      <th>WhatsApp (India)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:kenangain2910@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+          <br>
+          kenangain2910@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/14374364786" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp Canada" style="width: 80px; margin: 10px;">
+          <br>
+          +1-437-436-4786
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/918200280008" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp India" style="width: 80px; margin: 10px;">
+          <br>
+          +91-820-028-0008
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
 
 <br>
 
