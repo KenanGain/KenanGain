@@ -30,39 +30,39 @@
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-knightgamer87-red?style=for-the-badge&logo=youtube" alt="KnightGamer87 YouTube">
+        <img src="https://img.shields.io/badge/YouTube-%40KnightGamer87-red?style=for-the-badge&logo=youtube" alt="KnightGamer87 YouTube">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-knightgamer87-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="KnightGamer87 Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%40KnightGamer87-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="KnightGamer87 Instagram">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Kenan%20Gain-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kenan Gain LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kenan Gain LinkedIn">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-kenan.gain-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kenan Gain Facebook">
+        <img src="https://img.shields.io/badge/Facebook-KenanGain-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kenan Gain Facebook">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-knightgamer2910-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="KnightGamer2910 Twitch">
+        <img src="https://img.shields.io/badge/Twitch-%40KnightGamer2910-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="KnightGamer2910 Twitch">
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://img.shields.io/badge/X-gain_kenan-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="KenanGain Twitter">
+        <img src="https://img.shields.io/badge/X-%40KenanGain-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="KenanGain Twitter">
       </a>
     </td>
     <td align="center">
       <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-Automated_Artistry-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Automated Artistry Reddit">
+        <img src="https://img.shields.io/badge/Reddit-r%2FAutomated_Artistry-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Automated Artistry Reddit">
       </a>
     </td>
     <td align="center">
