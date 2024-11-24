@@ -21,63 +21,64 @@
 
 <div align="center">
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.kenangain.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-%23f68236.svg?style=for-the-badge&logo=web&logoColor=white" alt="Kenan Gain">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="knightgamer87">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="knightgamer87">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kenan Gain">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://facebook.com/kenan.gain" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Kenan Gain">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://twitch.tv/knightgamer2910" target="_blank">
-          <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="knightgamer2910">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://x.com/gain_kenan" target="_blank">
-          <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="KenanGain">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Automated_Artistry">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Knight Gamer">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/KenanGain" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Kenan Gain">
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.kenangain.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-kenangain.com-blue?style=for-the-badge" alt="Kenan Gain Website">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-knightgamer87-red?style=for-the-badge&logo=youtube" alt="KnightGamer87 YouTube">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-knightgamer87-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="KnightGamer87 Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Kenan%20Gain-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kenan Gain LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://facebook.com/kenan.gain" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-kenan.gain-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kenan Gain Facebook">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://twitch.tv/knightgamer2910" target="_blank">
+        <img src="https://img.shields.io/badge/Twitch-knightgamer2910-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="KnightGamer2910 Twitch">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/gain_kenan" target="_blank">
+        <img src="https://img.shields.io/badge/X-gain_kenan-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="KenanGain Twitter">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
+        <img src="https://img.shields.io/badge/Reddit-Automated_Artistry-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Automated Artistry Reddit">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-Knight%20Gamer-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Knight Gamer Discord">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KenanGain" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-KenanGain-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Kenan Gain GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 <br>
 
