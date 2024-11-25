@@ -60,7 +60,7 @@
       </td>
       <td align="center">
         <a href="https://x.com/gain_kenan" target="_blank">
-          <img src="https://img.shields.io/badge/X-%40Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
         </a>
       </td>
       <td align="center">
