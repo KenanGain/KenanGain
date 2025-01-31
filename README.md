@@ -228,10 +228,18 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 # Videos & Documentries
 
-## 𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...
-
-[![AI Intro](https://github.com/KenanGain/KenanGain/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif" alt="AI Intro GIF" width="300"/>
+      </a>
+      <p>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
