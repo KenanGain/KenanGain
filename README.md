@@ -546,9 +546,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Latest Dev.to</h3>
 
-https://latest-devto-post.vercel.app/api?username=kenangain
 
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)](https://dev.to/kenangain)
+
+[[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)](https://dev.to/kenangain)] 
+
 
 <table>
   <tr>
