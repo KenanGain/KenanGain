@@ -15,8 +15,6 @@
 
 </p>
 
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)
-
 
 <p align="center">
   Content Creator | Gamer | Tech Enthusiast
