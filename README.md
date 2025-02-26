@@ -546,14 +546,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Latest Dev.to</h3>
 
-<a href="https://dev.to/kenangain">
-  <img 
-    src="https://latest-devto-post.vercel.app/api?username=kenangain"
-    alt="Latest Dev.to"
-    style="max-width: 100%; height: auto;"
-  />
-</a>
+![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)
 
+<br/>
 
 <table>
   <tr>
