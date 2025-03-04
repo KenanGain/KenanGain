@@ -939,7 +939,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </td>
         <!-- DaVinci Resolve icon from Wikipedia -->
         <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/DaVinci_Resolve_17_logo.png" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
         </td>
       </tr>
     </tbody>
