@@ -49,6 +49,58 @@
 
 As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
+
+<h2 align="center">🎓 My Multi-Cloud Certifications</h2>
+
+<table>
+  <tr>
+    <!-- Icon Row -->
+    <td align="center">
+      <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
+        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Text Row -->
+    <td align="center">
+      🗓️ July 2025 <br/>
+      🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
+      <em>Validates AWS Cloud concepts, billing, and infrastructure.</em>
+    </td>
+    <td align="center">
+      🗓️ July 2025 <br/>
+      🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+      <em>Covers Azure services, governance, and pricing models.</em>
+    </td>
+    <td align="center">
+      🗓️ July 2025 <br/>
+      🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
+      <em>Tests GCP product knowledge, AI/ML, and business use cases.</em>
+    </td>
+    <td align="center">
+      🗓️ July 2025 <br/>
+      🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">Credential</a><br/>
+      <em>Provides vendor-neutral cloud knowledge (governance & adoption).</em>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
