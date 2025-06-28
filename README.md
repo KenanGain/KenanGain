@@ -1118,7 +1118,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 ## ✅ AWS | Azure | Google Cloud | CompTIA
 
-I’ve earned **foundational cloud certifications** from the three major cloud providers (**AWS**, **Azure**, **GCP**) and **CompTIA**, demonstrating expertise in cloud fundamentals, services, AI/ML, governance, and cloud economics.
+I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, demonstrating my skills in cloud architecture, AI/ML, data services, governance, and vendor-neutral cloud foundations.
 
 ---
 
@@ -1126,7 +1126,7 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 
 <p align="center">
   <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
-    <img src="https://images.credly.com/size/340x340/images/0dfb2c6d-5d8f-4c3b-8b8e-5ec7fd43c486/image.png" alt="AWS Certified Cloud Practitioner Badge" width="150"/>
+    <img src="./badges/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="150"/>
   </a>
 </p>
 
@@ -1135,11 +1135,11 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 
 ---
 
-## 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+## 🏅 Google Cloud Digital Leader
 
 <p align="center">
   <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified Azure Fundamentals Badge" width="150"/>
+    <img src="./badges/cloud-digital-leader.png" alt="Google Cloud Digital Leader Badge" width="150"/>
   </a>
 </p>
 
@@ -1148,16 +1148,16 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 
 ---
 
-## 🏅 Google Cloud Digital Leader
+## 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 <p align="center">
-  <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-    <img src="https://images.credly.com/size/340x340/images/1c3a9c53-061a-4a5e-a2ac-89b1c893ed17/image.png" alt="Google Cloud Digital Leader Badge" width="150"/>
+  <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+    <img src="./badges/azure-az900.png" alt="Microsoft Certified Azure Fundamentals Badge" width="150"/>
   </a>
 </p>
 
 **Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url)
+**Credential:** [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url)
 
 ---
 
@@ -1165,7 +1165,7 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 
 <p align="center">
   <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
-    <img src="https://images.credly.com/size/340x340/images/9d652f32-83d4-4c1c-9bbc-0c875d065aaa/image.png" alt="CompTIA Cloud Essentials+ Badge" width="150"/>
+    <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Cloud Essentials+ Badge" width="150"/>
   </a>
 </p>
 
@@ -1178,10 +1178,12 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 
 ✅ Multi-cloud certified across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**  
 ✅ Knowledge in:  
-- Cloud computing models  
+- Cloud service models  
 - Deployment types  
 - AI/ML workloads  
-- Security & governance  
-- Cloud cost management  
+- Cloud security & governance  
+- Cost management  
 - Vendor-neutral cloud essentials (CompTIA)
+
+---
 
