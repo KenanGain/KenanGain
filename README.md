@@ -1113,3 +1113,6 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
