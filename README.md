@@ -1113,53 +1113,84 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
 # ☁️ Multi-Cloud + CompTIA Certification Showcase
 
 ## ✅ AWS | Azure | Google Cloud | CompTIA
 
-I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, showcasing my multi-cloud solutions expertise in **cloud architecture**, **AI/ML**, **data services**, and **cloud governance**.
+I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, building expertise in **cloud architecture**, **AI/ML**, **data solutions**, **security**, and **multi-cloud governance**.
 
 ---
 
-| AWS Certified Cloud Practitioner | Azure Fundamentals (AZ-900) | Google Cloud Digital Leader | CompTIA Cloud Essentials+ |
-|:---:|:---:|:---:|:---:|
-| ![AWS Badge](./badges/aws-cloud-practitioner.png) | ![Azure Badge](./badges/azure-az900.png) | ![GCP Badge](./badges/cloud-digital-leader.png) | ![CompTIA Badge](./badges/comptia-cloud-essentials.png) |
-| **Earned:** July 2025  <br> [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) | **Earned:** July 2025  <br> [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) | **Earned:** July 2025  <br> [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) | **Earned:** July 2025  <br> [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) |
+## 🟧 AWS Certification
+
+| Certification | Badge | Earned | Credential |
+|:---|:---:|:---:|:---|
+| **AWS Certified Cloud Practitioner** | <img src="./badges/aws-cloud-practitioner.png" width="120" height="120" alt="AWS Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) |
 
 ---
 
-## 🌟 Why Multi-Cloud?
+## 🟦 Microsoft Azure Certification
+
+| Certification | Badge | Earned | Credential |
+|:---|:---:|:---:|:---|
+| **Azure Fundamentals (AZ-900)** | <img src="./badges/azure-az900.png" width="120" height="120" alt="Azure Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) |
+
+---
+
+## 🟩 Google Cloud Certification
+
+| Certification | Badge | Earned | Credential |
+|:---|:---:|:---:|:---|
+| **Google Cloud Digital Leader** | <img src="./badges/cloud-digital-leader.png" width="120" height="120" alt="GCP Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) |
+
+---
+
+## 🟨 CompTIA Certification
+
+| Certification | Badge | Earned | Credential |
+|:---|:---:|:---:|:---|
+| **CompTIA Cloud Essentials+ (CLO-002)** | <img src="./badges/comptia-cloud-essentials.png" width="120" height="120" alt="CompTIA Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) |
+
+---
+
+## 🌟 Why Multi-Cloud Solutions Matter
 
 ✅ Avoid vendor lock-in  
-✅ Leverage best services from each cloud  
-✅ Increase business resiliency  
-✅ Optimize AI, Data, and Compute workloads  
-✅ Enhance cost efficiency  
+✅ Flexibility across AWS, Azure, GCP  
+✅ Business continuity & disaster recovery  
+✅ AI/ML & Big Data workload optimization  
+✅ Cost efficiency and governance across clouds  
 
-> _"One Cloud? No... I build solutions across all three."_ 🌎☁️☁️☁️
+> _“Multi-Cloud Mastery isn’t an option… It’s the new standard.”_
 
 ---
 
-## 📈 What's Next for Me?
+## 🏁 Next Certifications Target
 
-| Upcoming Certifications | Focus |
+| Upcoming Certification | Focus Area |
 |:---|:---|
 | AWS Solutions Architect – Associate | Cloud Design |
-| Azure Administrator – Associate | Deployment and Management |
-| Google Cloud Associate Engineer | GCP Workloads |
+| Azure Administrator – Associate | Cloud Deployment |
+| Google Associate Cloud Engineer | GCP Operations |
 | Terraform Associate & KCNA | IaC & Kubernetes |
-| Cloud Security & DevOps Specializations | Security & Automation |
+| Cloud Security & DevOps Specializations | Automation & Protection |
 
 ---
 
 ## 🔗 Connect with Me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-KenanGain-black?style=for-the-badge&logo=github)](https://github.com/KenanGain)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenan%20Gain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenan-gain-33048518a/)
+<p align="center">
+  <a href="https://github.com/KenanGain">
+    <img src="https://img.shields.io/badge/GitHub-KenanGain-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/kenan-gain-33048518a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kenan%20Gain-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-⭐ _**Building Future-Proof, Multi-Cloud Architectures.**_
+⭐ _**Building Modern, Scalable, and Vendor-Neutral Cloud Solutions.**_
+
 
 
