@@ -1145,25 +1145,21 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <tr>
     <!-- Text Row -->
     <td align="center">
-      <strong>AWS Certified Cloud Practitioner</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
       <em>Validates AWS Cloud concepts, billing, and global infrastructure.</em>
     </td>
     <td align="center">
-      <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
       <em>Covers Azure services, governance, and pricing models.</em>
     </td>
     <td align="center">
-      <strong>Google Cloud Digital Leader</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
       <em>Tests GCP products knowledge, AI/ML, and business use cases.</em>
     </td>
     <td align="center">
-      <strong>CompTIA Cloud Essentials+ (CLO-002)</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">Credential</a><br/>
       <em>Provides vendor-neutral cloud knowledge for governance and adoption.</em>
