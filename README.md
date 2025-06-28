@@ -1115,69 +1115,43 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 # ☁️ Multi-Cloud + CompTIA Certification Showcase
 
-## ✅ AWS | Azure | Google Cloud | CompTIA
+## ✅ Certified in AWS | Azure | Google Cloud | CompTIA
 
-I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, building expertise in **cloud architecture**, **AI/ML**, **data solutions**, **security**, and **multi-cloud governance**.
-
----
-
-## 🟧 AWS Certification
-
-| Certification | Badge | Earned | Credential |
-|:---|:---:|:---:|:---|
-| **AWS Certified Cloud Practitioner** | <img src="./badges/aws-cloud-practitioner.png" width="120" height="120" alt="AWS Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) |
+I’ve earned **multi-cloud foundational certifications** covering cloud fundamentals, AI/ML workloads, data services, governance, and vendor-neutral cloud computing.
 
 ---
 
-## 🟦 Microsoft Azure Certification
-
-| Certification | Badge | Earned | Credential |
-|:---|:---:|:---:|:---|
-| **Azure Fundamentals (AZ-900)** | <img src="./badges/azure-az900.png" width="120" height="120" alt="Azure Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) |
+| ![AWS Badge](./badges/aws-cloud-practitioner.png) | ![Azure Badge](./badges/azure-az900.png) | ![GCP Badge](./badges/cloud-digital-leader.png) | ![CompTIA Badge](./badges/comptia-cloud-essentials.png) |
+|:---:|:---:|:---:|:---:|
+| **AWS Certified Cloud Practitioner** <br> 🗓️ July 2025 <br> 🔗 [Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) <br> _Validates AWS Cloud concepts, billing, pricing, and global infrastructure_ | **Microsoft Certified: Azure Fundamentals (AZ-900)** <br> 🗓️ July 2025 <br> 🔗 [Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) <br> _Covers Azure core services, governance, and pricing models_ | **Google Cloud Digital Leader** <br> 🗓️ July 2025 <br> 🔗 [Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) <br> _Tests knowledge of GCP products, AI/ML, and cloud business use cases_ | **CompTIA Cloud Essentials+ (CLO-002)** <br> 🗓️ July 2025 <br> 🔗 [Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) <br> _Provides vendor-neutral cloud knowledge (governance, adoption, and business impact)_ |
 
 ---
 
-## 🟩 Google Cloud Certification
+## 🎯 Why Multi-Cloud Solutions Matter
 
-| Certification | Badge | Earned | Credential |
-|:---|:---:|:---:|:---|
-| **Google Cloud Digital Leader** | <img src="./badges/cloud-digital-leader.png" width="120" height="120" alt="GCP Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) |
+✅ Minimize vendor lock-in  
+✅ Improve global resiliency and disaster recovery  
+✅ Leverage best services from AWS, Azure, and GCP  
+✅ Optimize AI/ML, Data, and Compute workloads  
+✅ Ensure vendor-neutral cloud governance with CompTIA  
 
----
-
-## 🟨 CompTIA Certification
-
-| Certification | Badge | Earned | Credential |
-|:---|:---:|:---:|:---|
-| **CompTIA Cloud Essentials+ (CLO-002)** | <img src="./badges/comptia-cloud-essentials.png" width="120" height="120" alt="CompTIA Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) |
+> _"Cloud is not a destination, it's an operating model... mastered across all platforms."_ ☁️🌎
 
 ---
 
-## 🌟 Why Multi-Cloud Solutions Matter
+## 🏁 Upcoming Certifications Plan:
 
-✅ Avoid vendor lock-in  
-✅ Flexibility across AWS, Azure, GCP  
-✅ Business continuity & disaster recovery  
-✅ AI/ML & Big Data workload optimization  
-✅ Cost efficiency and governance across clouds  
-
-> _“Multi-Cloud Mastery isn’t an option… It’s the new standard.”_
-
----
-
-## 🏁 Next Certifications Target
-
-| Upcoming Certification | Focus Area |
+| Next Target | Focus |
 |:---|:---|
 | AWS Solutions Architect – Associate | Cloud Design |
-| Azure Administrator – Associate | Cloud Deployment |
-| Google Associate Cloud Engineer | GCP Operations |
-| Terraform Associate & KCNA | IaC & Kubernetes |
-| Cloud Security & DevOps Specializations | Automation & Protection |
+| Azure Administrator – Associate | Deployment & Management |
+| Google Associate Cloud Engineer | GCP Workloads |
+| Terraform Associate / KCNA | IaC & Kubernetes |
+| DevOps & Cloud Security Specializations | Automation & Protection |
 
 ---
 
-## 🔗 Connect with Me:
+## 🌐 Let’s Connect:
 
 <p align="center">
   <a href="https://github.com/KenanGain">
@@ -1190,7 +1164,8 @@ I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, *
 
 ---
 
-⭐ _**Building Modern, Scalable, and Vendor-Neutral Cloud Solutions.**_
+⭐ _**Delivering Scalable, Vendor-Neutral, and Business-Centric Multi-Cloud Solutions**_
+
 
 
 
