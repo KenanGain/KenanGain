@@ -124,7 +124,6 @@ My certifications across **AWS**, **Azure**, **Google Cloud**, and **CompTIA** e
 
 > _“Mastering the Cloud… Across All Platforms.”_ ☁️🌎
 
----
 
 ## 📈 Upcoming Certification Roadmap
 
@@ -144,7 +143,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 **To become a Multi-Cloud Architect and DevOps/AI Cloud Specialist**, delivering solutions that drive business value while ensuring scalability, reliability, and security.
 
 </details>
----
+
 
 <br>
 
