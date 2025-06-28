@@ -1115,21 +1115,40 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 # ☁️ Multi-Cloud + CompTIA Certification Showcase
 
-## ✅ Certified in AWS | Azure | Google Cloud | CompTIA
+## 🏅 My Certifications – Side by Side Visual Showcase
 
-I’ve earned **foundational certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, demonstrating skills in **Cloud Architecture**, **AI/ML Workloads**, **Data Services**, **Governance**, and **Cloud Economics**.
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
+        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/><br/>
+        <strong>AWS Cloud Practitioner</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/><br/>
+        <strong>Azure Fundamentals (AZ-900)</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/><br/>
+        <strong>Google Cloud Digital Leader</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/><br/>
+        <strong>CompTIA Cloud Essentials+</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-| **Certification Name** | **Badge** | **Earned Date** | **Credential Link** | **Summary** |
-|:---:|:---:|:---:|:---:|:---|
-| **AWS Certified Cloud Practitioner** | <img src="./badges/aws-cloud-practitioner.png" width="150" alt="AWS Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) | Validates AWS Cloud concepts, billing, pricing, and global infrastructure |
-| **Microsoft Certified: Azure Fundamentals (AZ-900)** | <img src="./badges/azure-az900.png" width="150" alt="Azure Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) | Covers Azure core services, governance, pricing models, and cloud deployment basics |
-| **Google Cloud Digital Leader** | <img src="./badges/cloud-digital-leader.png" width="150" alt="GCP Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) | Tests knowledge of GCP products, AI/ML, and cloud business use cases |
-| **CompTIA Cloud Essentials+ (CLO-002)** | <img src="./badges/comptia-cloud-essentials.png" width="150" alt="CompTIA Badge"/> | July 2025 | [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) | Provides vendor-neutral cloud knowledge (governance, adoption, and business impact) |
-
----
-
+</div>
 ## 🎯 Why Multi-Cloud Solutions Matter
 
 ✅ Minimize vendor lock-in  
