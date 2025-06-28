@@ -1118,7 +1118,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 ## ✅ AWS | Azure | Google Cloud | CompTIA
 
-I’ve earned **foundational cloud certifications** from the three major cloud providers (**AWS**, **Azure**, **GCP**) and **CompTIA**, showcasing my understanding of core cloud concepts, services, AI/ML, security, and cloud economics across multi-cloud environments.
+I’ve earned **foundational cloud certifications** from the three major cloud providers (**AWS**, **Azure**, **GCP**) and **CompTIA**, demonstrating expertise in cloud fundamentals, services, AI/ML, governance, and cloud economics.
 
 ---
 
@@ -1164,25 +1164,24 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 ## 🏅 CompTIA Cloud Essentials+ (CLO-002)
 
 <p align="center">
-  <a href="https://www.credly.com/badges/YOUR_COMPTIA_BADGE_ID/public_url">
+  <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
     <img src="https://images.credly.com/size/340x340/images/9d652f32-83d4-4c1c-9bbc-0c875d065aaa/image.png" alt="CompTIA Cloud Essentials+ Badge" width="150"/>
   </a>
 </p>
 
 **Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/YOUR_COMPTIA_BADGE_ID/public_url)
+**Credential:** [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url)
 
 ---
 
 ## 🌟 Summary:
 
 ✅ Multi-cloud certified across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**  
-✅ Strong knowledge in:  
+✅ Knowledge in:  
 - Cloud computing models  
 - Deployment types  
 - AI/ML workloads  
-- Security and governance  
-- Cloud economics  
-- Vendor-neutral cloud foundations  
+- Security & governance  
+- Cloud cost management  
+- Vendor-neutral cloud essentials (CompTIA)
 
----
