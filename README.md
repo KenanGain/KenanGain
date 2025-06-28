@@ -106,9 +106,15 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
+<details>
+  <summary><strong>🎯 Why Multi-Cloud Solutions Matter + 📈 Upcoming Certification Roadmap (Click to Expand)</strong></summary>
+
+<br>
+
 ## 🎯 Why Multi-Cloud Solutions Matter
 
-In today’s rapidly evolving technology landscape, organizations require **cloud strategies that are flexible, scalable, and resilient**. My certifications across **AWS**, **Azure**, **Google Cloud**, and **CompTIA** enable me to design and deliver solutions that are:  
+In today’s rapidly evolving technology landscape, organizations require **cloud strategies that are flexible, scalable, and resilient**.  
+My certifications across **AWS**, **Azure**, **Google Cloud**, and **CompTIA** enable me to design and deliver solutions that are:
 
 ✅ **Vendor-Agnostic** – Minimize vendor lock-in and maximize flexibility  
 ✅ **Performance-Optimized** – Leverage best-in-class services across AWS, Azure, and GCP  
@@ -137,6 +143,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 ✅ **Objective:**  
 **To become a Multi-Cloud Architect and DevOps/AI Cloud Specialist**, delivering solutions that drive business value while ensuring scalability, reliability, and security.
 
+</details>
 ---
 
 <br>
