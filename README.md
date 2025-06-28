@@ -1151,13 +1151,13 @@ I’ve earned **foundational cloud certifications** from the three major cloud p
 ## 🏅 Google Cloud Digital Leader
 
 <p align="center">
-  <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+  <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
     <img src="https://images.credly.com/size/340x340/images/1c3a9c53-061a-4a5e-a2ac-89b1c893ed17/image.png" alt="Google Cloud Digital Leader Badge" width="150"/>
   </a>
 </p>
 
 **Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url)
+**Credential:** [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url)
 
 ---
 
