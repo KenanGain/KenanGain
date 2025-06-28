@@ -1114,43 +1114,82 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
-# ☁️ Multi-Cloud + CompTIA Certification Showcase
+# ☁️ Multi-Cloud Solutions + CompTIA Certification Showcase
 
-## ✅ AWS | Azure | Google Cloud | CompTIA
+## 🚀 Certified Across AWS | Azure | Google Cloud | CompTIA  
 
-I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, validating my expertise in **cloud architecture**, **AI/ML**, **data services**, **governance**, and **vendor-neutral cloud fundamentals**.
-
----
-
-## 📋 Certifications Summary (Visual Table)
-
-| Certification | Badge | Earned | Credential Link |
-|:---:|:---:|:---:|:---:|
-| **AWS Certified Cloud Practitioner** | <img src="./badges/aws-cloud-practitioner.png" alt="AWS Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) |
-| **Google Cloud Digital Leader** | <img src="./badges/cloud-digital-leader.png" alt="GCP Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) |
-| **Microsoft Certified: Azure Fundamentals (AZ-900)** | <img src="./badges/azure-az900.png" alt="Azure Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) |
-| **CompTIA Cloud Essentials+ (CLO-002)** | <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) |
+Empowering businesses with **vendor-neutral**, **multi-cloud solutions** for **AI/ML**, **Data Services**, **Cloud Architecture**, **Security**, and **Governance**.
 
 ---
 
-## 🎯 Key Skills Validated:
+## 💼 Multi-Cloud Foundation – What Do I Bring to the Table?
 
-✅ Multi-cloud knowledge (AWS / Azure / GCP)  
-✅ Cloud architecture and services  
-✅ AI/ML and Data solutions (across clouds)  
-✅ Security, governance, and compliance  
-✅ Cloud deployment models & cost management  
-✅ Vendor-neutral cloud fundamentals (CompTIA)
+✅ Cloud Service Models (IaaS, PaaS, SaaS)  
+✅ AI/ML Cloud Workloads (across AWS, Azure, GCP)  
+✅ Cloud Security and Compliance  
+✅ Cloud Cost Optimization  
+✅ Cloud Governance and Best Practices  
+✅ Vendor-neutral cloud perspective (CompTIA)
 
 ---
 
-## 🚀 What’s Next:
+## 🏅 My Certifications – Side by Side Visual Showcase
 
-- 📈 **AWS Solutions Architect - Associate**  
-- 📈 **Microsoft Azure Administrator - Associate**  
-- 📈 **Google Cloud Associate Cloud Engineer**  
-- 📈 **Terraform Associate & Kubernetes (KCNA)**  
-- 📈 **DevOps and Cloud Security Specializations**
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
+        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/><br/>
+        <strong>AWS Cloud Practitioner</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/><br/>
+        <strong>Azure Fundamentals (AZ-900)</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/><br/>
+        <strong>Google Cloud Digital Leader</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/><br/>
+        <strong>CompTIA Cloud Essentials+</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ❓ Why Multi-Cloud Solutions Matter Today?
+
+✅ **Business Continuity:** Avoid vendor lock-in  
+✅ **Flexibility:** Deploy workloads across AWS, Azure, and GCP  
+✅ **Cost Optimization:** Use best services from each cloud  
+✅ **Resilience:** High availability and disaster recovery  
+✅ **AI/ML & Data Stack Optimization:** Leverage strengths from each provider  
+
+> _"In the world of Cloud... Why choose one, when you can master all three?"_
+
+---
+
+## 🏃‍♂️ What's Next on My Certification Journey?
+
+- 🧱 **AWS Solutions Architect Associate**  
+- 🔐 **Azure Administrator Associate**  
+- 🌐 **Google Associate Cloud Engineer**  
+- ⚙️ **Terraform Associate & Kubernetes (KCNA)**  
+- ☁️ **Cloud Security & DevOps Specializations**
+
+---
 ---
 
