@@ -1118,72 +1118,39 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 ## ✅ AWS | Azure | Google Cloud | CompTIA
 
-I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, demonstrating my skills in cloud architecture, AI/ML, data services, governance, and vendor-neutral cloud foundations.
+I’ve earned **foundational cloud certifications** across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**, validating my expertise in **cloud architecture**, **AI/ML**, **data services**, **governance**, and **vendor-neutral cloud fundamentals**.
 
 ---
 
-## 🏅 AWS Certified Cloud Practitioner
+## 📋 Certifications Summary (Visual Table)
 
-<p align="center">
-  <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
-    <img src="./badges/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="150"/>
-  </a>
-</p>
-
-**Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url)
+| Certification | Badge | Earned | Credential Link |
+|:---:|:---:|:---:|:---:|
+| **AWS Certified Cloud Practitioner** | <img src="./badges/aws-cloud-practitioner.png" alt="AWS Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url) |
+| **Google Cloud Digital Leader** | <img src="./badges/cloud-digital-leader.png" alt="GCP Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url) |
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | <img src="./badges/azure-az900.png" alt="Azure Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url) |
+| **CompTIA Cloud Essentials+ (CLO-002)** | <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Badge" width="100"/> | July 2025 | [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url) |
 
 ---
 
-## 🏅 Google Cloud Digital Leader
+## 🎯 Key Skills Validated:
 
-<p align="center">
-  <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-    <img src="./badges/cloud-digital-leader.png" alt="Google Cloud Digital Leader Badge" width="150"/>
-  </a>
-</p>
-
-**Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url)
+✅ Multi-cloud knowledge (AWS / Azure / GCP)  
+✅ Cloud architecture and services  
+✅ AI/ML and Data solutions (across clouds)  
+✅ Security, governance, and compliance  
+✅ Cloud deployment models & cost management  
+✅ Vendor-neutral cloud fundamentals (CompTIA)
 
 ---
 
-## 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+## 🚀 What’s Next:
 
-<p align="center">
-  <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
-    <img src="./badges/azure-az900.png" alt="Microsoft Certified Azure Fundamentals Badge" width="150"/>
-  </a>
-</p>
-
-**Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url)
-
----
-
-## 🏅 CompTIA Cloud Essentials+ (CLO-002)
-
-<p align="center">
-  <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
-    <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Cloud Essentials+ Badge" width="150"/>
-  </a>
-</p>
-
-**Earned:** July 2025  
-**Credential:** [View Credential](https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url)
-
----
-
-## 🌟 Summary:
-
-✅ Multi-cloud certified across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**  
-✅ Knowledge in:  
-- Cloud service models  
-- Deployment types  
-- AI/ML workloads  
-- Cloud security & governance  
-- Cost management  
-- Vendor-neutral cloud essentials (CompTIA)
+- 📈 **AWS Solutions Architect - Associate**  
+- 📈 **Microsoft Azure Administrator - Associate**  
+- 📈 **Google Cloud Associate Cloud Engineer**  
+- 📈 **Terraform Associate & Kubernetes (KCNA)**  
+- 📈 **DevOps and Cloud Security Specializations**
 
 ---
 
