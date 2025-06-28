@@ -1118,44 +1118,55 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 ## 🏅 My Certifications – Side by Side Visual Showcase
 
 <div align="center">
-
 <table>
   <tr>
+    <!-- Icon Row -->
     <td align="center">
       <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
-        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/><br/>
-        <strong>AWS Certified Cloud Practitioner</strong>
-      </a><br/>
+        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Text Row -->
+    <td align="center">
+      <strong>AWS Certified Cloud Practitioner</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
       <em>Validates AWS Cloud concepts, billing, and global infrastructure.</em>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
-        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/><br/>
-        <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong>
-      </a><br/>
+      <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
       <em>Covers Azure services, governance, and pricing models.</em>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/><br/>
-        <strong>Google Cloud Digital Leader</strong>
-      </a><br/>
+      <strong>Google Cloud Digital Leader</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
       <em>Tests GCP products knowledge, AI/ML, and business use cases.</em>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
-        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/><br/>
-        <strong>CompTIA Cloud Essentials+ (CLO-002)</strong>
-      </a><br/>
+      <strong>CompTIA Cloud Essentials+ (CLO-002)</strong><br/>
       🗓️ July 2025 <br/>
       🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">Credential</a><br/>
-      <em>Provides vendor-neutral cloud knowledge (governance, adoption, and business impact).</em>
+      <em>Provides vendor-neutral cloud knowledge for governance and adoption.</em>
     </td>
   </tr>
 </table>
