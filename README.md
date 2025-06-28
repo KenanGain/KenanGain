@@ -1114,3 +1114,70 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
+
+# ☁️ Multi-Cloud + CompTIA Certification Showcase
+
+## ✅ AWS | Azure | Google Cloud | CompTIA
+
+I’ve earned **foundational cloud certifications** from the three major cloud providers (**AWS**, **Azure**, **GCP**) and **CompTIA**, showcasing my understanding of core cloud concepts, services, AI/ML, security, and cloud economics across multi-cloud environments.
+
+---
+
+## 🏅 AWS Certified Cloud Practitioner
+
+<p align="center">
+  <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
+    <img src="https://images.credly.com/size/340x340/images/0dfb2c6d-5d8f-4c3b-8b8e-5ec7fd43c486/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+  </a>
+</p>
+
+**Earned:** July 2025  
+**Credential:** [View Credential](https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url)
+
+---
+
+## 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="150"/>
+  </a>
+</p>
+
+**Earned:** July 2025  
+**Credential:** [View Credential](https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url)
+
+---
+
+## 🏅 Google Cloud Digital Leader
+
+<p align="center">
+  <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+    <img src="https://images.credly.com/size/340x340/images/1c3a9c53-061a-4a5e-a2ac-89b1c893ed17/image.png" alt="Google Cloud Digital Leader" width="150"/>
+  </a>
+</p>
+
+**Earned:** July 2025  
+**Credential:** [View Credential](https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url)
+
+---
+
+## 🏅 CompTIA Cloud Essentials+ (CLO-002)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/YOUR-COMPTIA-BADGE-ID/public_url">
+    <img src="https://images.credly.com/size/340x340/images/9d652f32-83d4-4c1c-9bbc-0c875d065aaa/image.png" alt="CompTIA Cloud Essentials+" width="150"/>
+  </a>
+</p>
+
+**Earned:** July 2025  
+**Credential:** [View Credential](https://www.credly.com/badges/YOUR-COMPTIA-BADGE-ID/public_url)
+
+---
+
+## 🌟 Summary:
+
+✅ Multi-cloud certified across **AWS**, **Azure**, **Google Cloud**, and **CompTIA**  
+✅ Strong understanding of cloud computing models, deployment types, AI & ML workloads, governance, security, and cost optimization  
+✅ Vendor-neutral perspective with **CompTIA Cloud Essentials+**
+
