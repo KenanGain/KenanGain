@@ -57,7 +57,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <div align="center">
 <table>
   <tr>
-    <!-- Icon Row -->
+    <!-- Icon Row: Original Four -->
     <td align="center">
       <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
         <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/>
@@ -80,30 +80,72 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
   <tr>
-    <!-- Text Row -->
+    <!-- Text Row: Original Four -->
     <td align="center">
-      🗓️ July 2025 <br/>
+      🗓️ July 2025<br/>
       🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
       <em>Validates AWS Cloud concepts, billing, and infrastructure.</em>
     </td>
     <td align="center">
-      🗓️ July 2025 <br/>
+      🗓️ July 2025<br/>
       🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
       <em>Covers Azure services, governance, and pricing models.</em>
     </td>
     <td align="center">
-      🗓️ July 2025 <br/>
+      🗓️ July 2025<br/>
       🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
       <em>Tests GCP product knowledge, AI/ML, and business use cases.</em>
     </td>
     <td align="center">
-      🗓️ July 2025 <br/>
+      🗓️ July 2025<br/>
       🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">Credential</a><br/>
       <em>Provides vendor-neutral cloud knowledge (governance & adoption).</em>
     </td>
   </tr>
-</table>
 
+  <tr>
+    <!-- Icon Row: New Three + Placeholder -->
+    <td align="center">
+      <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
+        <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS AI Practitioner"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
+        <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
+        <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google AI Leader"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- reserved for future badge -->
+    </td>
+  </tr>
+  <tr>
+    <!-- Text Row: New Three -->
+    <td align="center">
+      🗓️ July 2025<br/>
+      🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">Credential</a><br/>
+      <em>Validates core AWS AI/ML services and practitioner-level concepts.</em>
+    </td>
+    <td align="center">
+      🗓️ July 2025<br/>
+      🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Credential</a><br/>
+      <em>Covers Azure AI services, workloads, and responsible AI fundamentals.</em>
+    </td>
+    <td align="center">
+      🗓️ July 2025<br/>
+      🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Credential</a><br/>
+      <em>Tests generative AI leadership skills and Google Cloud AI solutions.</em>
+    </td>
+    <td align="center">
+      <!-- reserved for future badge -->
+    </td>
+  </tr>
+</table>
 </div>
 
 <details>
