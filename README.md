@@ -74,7 +74,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         </a>
       </td>
       <td align="center">
-        Coming Soon
+        <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+          <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Cloud Essentials"/>
+        </a>
       </td>
     </tr>
     <tr>
@@ -95,15 +97,15 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <em>GCP product knowledge, AI/ML & business use cases.</em>
       </td>
       <td align="center">
-        🗓️ Coming Soon<br/>
-        🔗 —<br/>
-        <em>Stay tuned for the next Cloud badge!</em>
+        🗓️ July 2025<br/>
+        🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">CompTIA Cloud Essentials+</a><br/>
+        <em>Vendor‑neutral cloud fundamentals: governance & adoption.</em>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- AI & ML Certifications -->
+<!-- AI & ML Practitioner Certifications -->
 <h2 align="center">🤖 AI &amp; ML Practitioner Certifications</h2>
 <div align="center">
   <table>
@@ -148,7 +150,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center">
         🗓️ Coming Soon<br/>
         🔗 —<br/>
-        <em>More AI credentials on the way!</em>
+        <em>Next AI credential arriving soon!</em>
       </td>
     </tr>
   </table>
