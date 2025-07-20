@@ -110,46 +110,46 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <!-- AI & ML Practitioner Certifications -->
 <h2 align="center">🤖 AI &amp; ML Practitioner Certifications</h2>
 <div align="center">
-  <table>
+  <table style="width:100%; table-layout:fixed;">
     <tr>
       <!-- Icon Row -->
-      <td align="center">
+      <td align="center" width="25%">
         <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
-          <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS AI Practitioner"/>
+          <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
-          <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals"/>
+          <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI‑900)"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
-          <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google AI Leader"/>
+          <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google Generative AI Leader"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         Coming Soon
       </td>
     </tr>
     <tr>
       <!-- Text Row -->
-      <td align="center">
+      <td align="center" width="25%">
         🗓️ July 2025<br/>
         🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">AWS Certified AI Practitioner</a><br/>
         <em>Core AWS AI/ML services & practitioner concepts.</em>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         🗓️ July 2025<br/>
         🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Azure AI Fundamentals (AI‑900)</a><br/>
         <em>Azure AI workloads, services, and responsible AI.</em>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         🗓️ July 2025<br/>
         🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Google Generative AI Leader</a><br/>
         <em>Generative AI leadership & Google Cloud AI solutions.</em>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         🗓️ Coming Soon<br/>
         🔗 —<br/>
         <em>Next AI credential arriving soon!</em>
