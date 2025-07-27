@@ -289,7 +289,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 
 </details>
-
+<a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 <br>
 
