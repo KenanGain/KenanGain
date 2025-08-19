@@ -65,7 +65,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">
         <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/>
       </a>
     </td>
@@ -75,7 +75,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">
+      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
         <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/>
       </a>
     </td>
