@@ -81,7 +81,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">
-        <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" width="520" alt="Oracle Badge"/>
+        <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png"  alt="Oracle Badge"/>
       </a>
     </td>
   </tr>
