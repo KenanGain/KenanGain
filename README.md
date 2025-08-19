@@ -94,7 +94,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
       🗓️ July 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+      🔗 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
       <em>Covers Azure services, governance, and pricing models.</em>
     </td>
     <td align="center">
@@ -104,7 +104,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
       🗓️ July 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/4bdc18df-6310-4d56-b4c7-3a2a9b8afdb6/public_url">Credential</a><br/>
+      🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
       <em>Provides vendor-neutral cloud knowledge (governance & adoption).</em>
     </td>
     <td align="center">
