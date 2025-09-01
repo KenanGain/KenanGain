@@ -201,13 +201,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <!-- NEW: IBM AI Fundamentals -->
       <td align="center" width="16.66%">
-        🗓️ —<br/>
+         🗓️ September 2025 <br/>
         🔗 <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">IBM Artificial Intelligence Fundamentals</a><br/>
         <em>Intro to AI concepts, ML, neural nets, and AI ethics.</em>
       </td>
       <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
       <td align="center" width="16.66%">
-        🗓️ —<br/>
+         🗓️ September 2025 <br/>
         🔗 <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">AI Fundamentals with IBM SkillsBuild (Cisco)</a><br/>
         <em>Foundations of AI, data, and ML; Cisco-issued via IBM SkillsBuild.</em>
       </td>
@@ -248,22 +248,22 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <!-- Text Row (no <br/>) -->
       <td align="center">
-        <div>🗓️ —</div>
+         🗓️ September 2025 <br/>
         <div>🔗 <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">Introduction to Modern AI</a></div>
         <div><em>Cisco micro-credential on core AI concepts &amp; modern use cases.</em></div>
       </td>
       <td align="center">
-        <div>🗓️ —</div>
+         🗓️ September 2025 <br/>
         <div>🔗 <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">AI at Work: Analyze Customer Reviews</a></div>
         <div><em>Cisco skill badge applying AI to review/sentiment analysis.</em></div>
       </td>
       <td align="center">
-        <div>🗓️ —</div>
+        🗓️ September 2025 <br/>
         <div>🔗 <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">Getting Started with Artificial Intelligence</a></div>
         <div><em>IBM intro to AI foundations, terminology, and workflows.</em></div>
       </td>
       <td align="center">
-        <div>🗓️ —</div>
+        🗓️ September 2025 <br/>
         <div>🔗 <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">AI Literacy</a></div>
         <div><em>IBM fundamentals of AI concepts, impacts, and ethics.</em></div>
       </td>
