@@ -87,7 +87,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <!-- NEW: IBM SkillsBuild -->
     <td align="center">
       <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">
-        <img src="./badges/cloud-computing-fundamentals.png" width="120" alt="IBM SkillsBuild Cloud Computing Fundamentals Badge"/>
+        <img src="badges/ibm-cloud-computing-fundamentals.png" width="120" alt="IBM SkillsBuild Cloud Computing Fundamentals Badge"/>
       </a>
     </td>
   </tr>
