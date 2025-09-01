@@ -215,98 +215,66 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </div>
 
-<div align="center">
-  <table style="width:100%; table-layout:fixed;">
-    <colgroup>
-      <col style="width:20%">
-      <col style="width:20%">
-      <col style="width:20%">
-      <col style="width:20%">
-      <col style="width:20%">
-    </colgroup>
 
-  <tr>
+<div align="center">
+  <table>
+    <tr>
       <!-- Icon Row -->
-      <!-- Cisco: Introduction to Modern AI -->
       <td align="center">
         <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">
-          <img src="./badges/cisco-introduction-to-modern-ai.png"
-               alt="Cisco: Introduction to Modern AI"
-               style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/cisco-introduction-to-modern-ai.png" width="120" alt="Cisco: Introduction to Modern AI"/>
         </a>
       </td>
-
-      <!-- Cisco: AI at Work – Analyze Customer Reviews -->
-  <td align="center">
+      <td align="center">
         <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">
-          <img src="./badges/cisco-ai-at-work-analyze-customer-reviews.png"
-               alt="Cisco: AI at Work – Analyze Customer Reviews"
-               style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/cisco-ai-at-work-analyze-customer-reviews.png" width="120" alt="Cisco: AI at Work – Analyze Customer Reviews"/>
         </a>
       </td>
-
-      <!-- IBM: Getting Started with Artificial Intelligence -->
-  <td align="center">
+      <td align="center">
         <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">
-          <img src="./badges/ibm-getting-started-with-artificial-intelligence.png"
-               alt="IBM: Getting Started with Artificial Intelligence"
-               style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/ibm-getting-started-with-artificial-intelligence.png" width="120" alt="IBM: Getting Started with Artificial Intelligence"/>
         </a>
       </td>
-
-      <!-- IBM: AI Literacy -->
-   <td align="center">
+      <td align="center">
         <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">
-          <img src="./badges/ibm-ai-literacy.png"
-               alt="IBM: AI Literacy"
-               style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/ibm-ai-literacy.png" width="120" alt="IBM: AI Literacy"/>
         </a>
       </td>
-
-      <!-- Coming Soon (funny tech GIF) -->
-  <td align="center">
-        <!-- Replace the GIF path below with your own funny tech GIF if desired -->
+      <td align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI4dTgwbHQzcXRnMzlhMmZ6M2NvdTEzdTk1dWNrMGVibTlsdWp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/um2kBnfo55iW4ZH1Fa/giphy.gif"
-             alt="Coming Soon – funny tech GIF"
-             style="width:120px; max-width:100%; height:auto;" />
+             width="120" alt="Coming Soon – funny tech GIF"/>
       </td>
     </tr>
-
-<tr>
-      <!-- Text Row -->
-   <td align="center" valign="top">
-        🗓️ —<br/>
-        🔗 <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">Introduction to Modern AI</a><br/>
-        <em>Cisco micro-credential on core AI concepts & modern use cases.</em>
+    <tr>
+      <!-- Text Row (no <br/>) -->
+      <td align="center">
+        <div>🗓️ —</div>
+        <div>🔗 <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">Introduction to Modern AI</a></div>
+        <div><em>Cisco micro-credential on core AI concepts &amp; modern use cases.</em></div>
       </td>
-
-  td align="center" valign="top">
-        🗓️ —<br/>
-        🔗 <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">AI at Work: Analyze Customer Reviews</a><br/>
-        <em>Cisco skill badge applying AI to review/sentiment analysis.</em>
+      <td align="center">
+        <div>🗓️ —</div>
+        <div>🔗 <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">AI at Work: Analyze Customer Reviews</a></div>
+        <div><em>Cisco skill badge applying AI to review/sentiment analysis.</em></div>
       </td>
-
-  <td align="center" valign="top">
-        🗓️ —<br/>
-        🔗 <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">Getting Started with Artificial Intelligence</a><br/>
-        <em>IBM intro to AI foundations, terminology, and workflows.</em>
+      <td align="center">
+        <div>🗓️ —</div>
+        <div>🔗 <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">Getting Started with Artificial Intelligence</a></div>
+        <div><em>IBM intro to AI foundations, terminology, and workflows.</em></div>
       </td>
-
-  <td align="center" valign="top">
-        🗓️ —<br/>
-        🔗 <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">AI Literacy</a><br/>
-        <em>IBM fundamentals of AI concepts, impacts, and ethics.</em>
+      <td align="center">
+        <div>🗓️ —</div>
+        <div>🔗 <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">AI Literacy</a></div>
+        <div><em>IBM fundamentals of AI concepts, impacts, and ethics.</em></div>
       </td>
-
-  <td align="center" valign="top">
-        🗓️ Coming Soon<br/>
-        🔗 —<br/>
-        <em>Next micro-credential dropping soon — stay tuned! 😄</em>
+      <td align="center">
+        <div>🗓️ Coming Soon</div>
+        <div>🔗 —</div>
+        <div><em>Next micro-credential dropping soon — stay tuned! 😄</em></div>
       </td>
     </tr>
   </table>
 </div>
-
 
 <details>
   <summary><strong>🎯 Why Multi-Cloud Solutions Matter + 📈 Upcoming Certification Roadmap (Click to Expand)</strong></summary>
