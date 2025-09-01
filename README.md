@@ -270,7 +270,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center">
         <div>🗓️ Coming Soon</div>
         <div>🔗 —</div>
-        <div><em>Next micro-credential dropping soon — stay tuned! 😄</em></div>
+        <div><em>Nextcredential dropping soon — stay tuned! 😄</em></div>
       </td>
     </tr>
   </table>
