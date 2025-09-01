@@ -216,8 +216,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="center">
   <table>
