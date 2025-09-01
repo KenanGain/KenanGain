@@ -52,81 +52,90 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 
+
 <!-- Cloud Fundamentals Certifications -->
 <h2 align="center">🎓 My Multi-Cloud Certifications</h2>
 
 <div align="center">
-<table>
-  <tr>
-    <!-- Icon Row -->
-    <td align="center">
-      <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
-        <img src="./badges/aws-cloud-practitioner.png" width="120" alt="AWS Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">
-        <img src="./badges/azure-az900.png" width="120" alt="Azure Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-        <img src="./badges/cloud-digital-leader.png" width="120" alt="GCP Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
-        <img src="./badges/comptia-cloud-essentials.png" width="120" alt="CompTIA Badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">
-        <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" width="150" alt="Oracle Badge"/>
-      </a>
-    </td>
-    <!-- NEW: IBM SkillsBuild -->
-    <td align="center">
-      <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">
-        <img src="badges/ibm-cloud-computing-fundamentals.png" width="80" alt="IBM SkillsBuild Cloud Computing Fundamentals Badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Text Row -->
-    <td align="center">
-      🗓️ July 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
-      <em>Validates AWS Cloud concepts, billing, and infrastructure.</em>
-    </td>
-    <td align="center">
-      🗓️ July 2025 <br/>
-      🔗 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
-      <em>Covers Azure services, governance, and pricing models.</em>
-    </td>
-    <td align="center">
-      🗓️ July 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
-      <em>Tests GCP product knowledge, AI/ML, and business use cases.</em>
-    </td>
-    <td align="center">
-      🗓️ July 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
-      <em>Provides vendor-neutral cloud knowledge (governance & adoption).</em>
-    </td>
-    <td align="center">
-      🗓️ August 2025 <br/>
-      🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
-      <em>Validates OCI services, security, networking, and pricing basics.</em>
-    </td>
-    <!-- NEW: IBM SkillsBuild -->
-    <td align="center">
-      🗓️ September 2025 <br/>
-      🔗 <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">Credential</a><br/>
-      <em>Foundational cloud models (IaaS/PaaS/SaaS), compute, storage, networking & security.</em>
-    </td>
-  </tr>
-</table>
+  <table style="width:100%; table-layout:fixed;">
+    <colgroup>
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+    </colgroup>
+    <tr>
+      <!-- Icon Row -->
+      <td align="center">
+        <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
+          <img src="./badges/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">
+          <img src="./badges/azure-az900.png" alt="Microsoft Azure Fundamentals (AZ-900)" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
+          <img src="./badges/cloud-digital-leader.png" alt="Google Cloud Digital Leader" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
+          <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Cloud Essentials+" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">
+          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" alt="Oracle OCI 2025 Foundations Associate" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <!-- IBM SkillsBuild - Cloud Computing Fundamentals -->
+      <td align="center">
+        <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">
+          <img src="./badges/cloud-computing-fundamentals.png" alt="IBM SkillsBuild: Cloud Computing Fundamentals" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Text Row -->
+      <td align="center" valign="top">
+        🗓️ July 2025 <br/>
+        🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
+        <em>Validates AWS Cloud concepts, billing, and infrastructure.</em>
+      </td>
+      <td align="center" valign="top">
+        🗓️ July 2025 <br/>
+        🔗 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
+        <em>Covers Azure services, governance, and pricing models.</em>
+      </td>
+      <td align="center" valign="top">
+        🗓️ July 2025 <br/>
+        🔗 <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
+        <em>Tests GCP product knowledge, AI/ML, and business use cases.</em>
+      </td>
+      <td align="center" valign="top">
+        🗓️ July 2025 <br/>
+        🔗 <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+        <em>Vendor-neutral cloud knowledge (governance & adoption).</em>
+      </td>
+      <td align="center" valign="top">
+        🗓️ August 2025 <br/>
+        🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
+        <em>OCI services, security, networking, and pricing basics.</em>
+      </td>
+      <td align="center" valign="top">
+        🗓️ September 2025 <br/>
+        🔗 <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">Credential</a><br/>
+        <em>IaaS/PaaS/SaaS, compute, storage, networking & security.</em>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 <!-- AI & ML Practitioner Certifications -->
