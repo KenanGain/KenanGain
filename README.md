@@ -135,56 +135,72 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <table style="width:100%; table-layout:fixed;">
     <tr>
       <!-- Icon Row -->
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
           <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner"/>
         </a>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
           <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI-900)"/>
         </a>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
           <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google Generative AI Leader"/>
         </a>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">
-          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.png" alt="Oracle Cloud Infrastructure AI Foundations"/>
+          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.png" width="120" alt="Oracle Cloud Infrastructure AI Foundations"/>
         </a>
       </td>
-      <td align="center" width="20%">
-        Coming Soon
+      <!-- NEW: IBM AI Fundamentals -->
+      <td align="center" width="16.66%">
+        <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">
+          <img src="./badges/ibm-artificial-intelligence-fundamentals.png" width="120" alt="IBM Artificial Intelligence Fundamentals"/>
+        </a>
+      </td>
+      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
+      <td align="center" width="16.66%">
+        <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">
+          <img src="./badges/ai-fundamentals-with-ibm-skillsbuild.png" width="120" alt="AI Fundamentals with IBM SkillsBuild (Issued by Cisco)"/>
+        </a>
       </td>
     </tr>
     <tr>
       <!-- Text Row -->
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         🗓️ July 2025<br/>
         🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">AWS Certified AI Practitioner</a><br/>
         <em>Core AWS AI/ML services & practitioner concepts.</em>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         🗓️ July 2025<br/>
         🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Azure AI Fundamentals (AI-900)</a><br/>
         <em>Azure AI workloads, services, and responsible AI.</em>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         🗓️ July 2025<br/>
         🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Google Generative AI Leader</a><br/>
         <em>Generative AI leadership & Google Cloud AI solutions.</em>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="16.66%">
         🗓️ August 2025<br/>
         🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">Oracle AI Foundations</a><br/>
         <em>Validates OCI AI services, ML, and responsible AI practices.</em>
       </td>
-      <td align="center" width="20%">
-        🗓️ Coming Soon<br/>
-        🔗 —<br/>
-        <em>Next AI credential arriving soon!</em>
+      <!-- NEW: IBM AI Fundamentals -->
+      <td align="center" width="16.66%">
+        🗓️ —<br/>
+        🔗 <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">IBM Artificial Intelligence Fundamentals</a><br/>
+        <em>Intro to AI concepts, ML, neural nets, and AI ethics.</em>
+      </td>
+      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
+      <td align="center" width="16.66%">
+        🗓️ —<br/>
+        🔗 <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">AI Fundamentals with IBM SkillsBuild (Cisco)</a><br/>
+        <em>Foundations of AI, data, and ML; Cisco-issued via IBM SkillsBuild.</em>
       </td>
     </tr>
   </table>
