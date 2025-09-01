@@ -81,7 +81,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">
-        <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" alt="Oracle Badge"/>
+        <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" width="120" alt="Oracle Badge"/>
+      </a>
+    </td>
+    <!-- NEW: IBM SkillsBuild -->
+    <td align="center">
+      <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">
+        <img src="./badges/cloud-computing-fundamentals.png" width="120" alt="IBM SkillsBuild Cloud Computing Fundamentals Badge"/>
       </a>
     </td>
   </tr>
@@ -111,6 +117,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       🗓️ August 2025 <br/>
       🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
       <em>Validates OCI services, security, networking, and pricing basics.</em>
+    </td>
+    <!-- NEW: IBM SkillsBuild -->
+    <td align="center">
+      🗓️ September 2025 <br/>
+      🔗 <a href="https://www.credly.com/badges/1026c5d5-31f6-4588-aac8-8f3f851263cd/public_url">Credential</a><br/>
+      <em>Foundational cloud models (IaaS/PaaS/SaaS), compute, storage, networking & security.</em>
     </td>
   </tr>
 </table>
