@@ -598,7 +598,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   <tr>
     <td>
       <a href="https://github.com/KenanGain/edgesurf-searchengine">
-        <img src="./screenshots/home.png" width="100%" alt="EdgeSurf Home Interface">
+        <img src="https://github.com/KenanGain/edgesurf-searchengine/blob/main/screenshots/search_demo.webp" width="100%" alt="EdgeSurf Home Interface">
       </a>
     </td>
     <td>
