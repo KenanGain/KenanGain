@@ -588,6 +588,60 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </table>
 </details>
 
+<br>
+
+### 🌊 EdgeSurf: The Ultimate AI Search Engine
+
+<a href="https://github.com/KenanGain/edgesurf-searchengine">View Repository</a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KenanGain/edgesurf-searchengine">
+        <img src="./screenshots/home.png" width="100%" alt="EdgeSurf Home Interface">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KenanGain/edgesurf-searchengine">
+        <img src="./screenshots/search.png" width="100%" alt="EdgeSurf Search Results">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><strong>Enter the Ultimate AI Search Engine—because good enough is simply unacceptable.</strong> This ambitious project pulls in over 21 diverse engines for a layered, context-savvy search experience that transcends traditional search boundaries.</p>
+      <p>Built to do more than just “find stuff,” <strong>EdgeSurf</strong> promises to dive headfirst into the internet's abyss and return with gems of wisdom. From web, document, and image retrieval, it’s your self-hosted go-to for precise answers, absolute privacy, and the kind of lightning-fast results that will leave you wondering how you ever managed without it.</p>
+      <p><em>Check out the full interactive demonstration video at the top of this documentation!</em></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Features and Highlights</strong></summary>
+  <table>
+    <tr>
+      <th>Advanced Capabilities</th>
+      <th>Privacy & Architecture</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li><strong>Aggregated Search</strong>: Compiles results from 21+ indexes including Google, DuckDuckGo, and SearXNG.</li>
+          <li><strong>Integrated Media</strong>: Dedicated tabs for discovering raw data files, documents, and high-quality images.</li>
+          <li><strong>Transparent Diagnostics</strong>: A built-in drawer to track engine health, cache efficiency, and query timings.</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li><strong>Absolute Privacy</strong>: Zero tracking, zero pervasive data farming. You own your queries.</li>
+          <li><strong>Self-Hosted Infrastructure</strong>: Dockerized backend architecture for ultimate control and security.</li>
+          <li><strong>Modern Real-Time UI</strong>: Built with Next.js, styled with Tailwind CSS, and optimized for a 16:9 1080p experience.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
 # Coming soon
 
  <img  width="25%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
@@ -599,13 +653,6 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 <p>Mixing small and large language models like a tech smoothie, Super GPT doesn’t just answer questions; it contemplates existence. With a sleek UI that practically <em>whispers</em> “futuristic,” Super GPT is setting a gold standard in AI that we’re almost certain no one actually asked for—but everyone will soon need.</p>
 
 <hr>
-
-<h2>🔍 Ultimate AI Search Engine: For When You Want Answers, Not Opinions</h2>
-
-<p>Enter the <strong>Ultimate AI Search Engine</strong>—because good enough is simply unacceptable. This ambitious project aims to put SearchGPT to shame, pulling in multiple LLMs for a layered, context-savvy search experience that adjusts to your wildest curiosities.</p>
-
-<p>Built to do more than just “find stuff,” the Ultimate AI Search Engine promises to dive headfirst into the internet's abyss and return with gems of wisdom. From web, document, and knowledge retrieval, it’s your go-to for precise answers and the kind of search results that will leave you wondering how you ever managed without it.</p>
-
 
 <br>
 
