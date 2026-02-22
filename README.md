@@ -590,22 +590,15 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <br>
 
-### 🌊 EdgeSurf: The Ultimate AI Search Engine
+## EdgeSurf: Just a searchengine
 
 <a href="https://github.com/KenanGain/edgesurf-searchengine">View Repository</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/KenanGain/edgesurf-searchengine">
+   <a href="https://github.com/KenanGain/edgesurf-searchengine">
         <img src="https://github.com/KenanGain/edgesurf-searchengine/blob/main/screenshots/search_demo.webp" width="100%" alt="EdgeSurf Home Interface">
       </a>
-    </td>
-    <td>
-      <a href="https://github.com/KenanGain/edgesurf-searchengine">
-        <img src="./screenshots/search.png" width="100%" alt="EdgeSurf Search Results">
-      </a>
-    </td>
   </tr>
   <tr>
     <td colspan="2">
