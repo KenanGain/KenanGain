@@ -143,6 +143,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
     <tr>
+      <td align="center" width="16.66%">
+      <img
+    src="./badges/nvidia-certified-associate-ai-infrastructure-and-op.1.png"
+    width="120"
+    alt="NVIDIA-Certified Associate: AI Infrastructure and Operations"
+  />
+    </td>
       <!-- Icon Row -->
       <td align="center" width="16.66%">
         <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
@@ -178,6 +185,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
     </tr>
     <tr>
+      <td align="center" width="16.66%">
+  🗓️ September 2026<br/>
+  🔗 <strong>NVIDIA-Certified Associate: AI Infrastructure and Operations</strong><br/>
+  <em>Validates foundational knowledge of AI infrastructure, accelerated computing, GPU systems, networking, storage, and AI operations.</em>
+</td>
       <!-- Text Row -->
       <td align="center" width="16.66%">
         🗓️ July 2025<br/>
